@@ -8,6 +8,7 @@ def scrape_result(url):
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
     response = requests.get(url, headers=headers)
+    print(response.status_code,response.reason)
     if response.status_code == 200:
         soup = BeautifulSoup(response.content, 'html.parser')
         with open("./prettify.txt",'w',encoding="utf-8") as f:
@@ -24,7 +25,7 @@ def scrape_result(url):
             #     urllist.append(x['href'])
             if "uta5.com" in x['href']:
                 urllist.append(x['href'])
-        
+
         return urllist
     return None
 

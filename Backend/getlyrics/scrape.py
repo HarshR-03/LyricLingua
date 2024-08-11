@@ -2,10 +2,12 @@ import requests
 from bs4 import BeautifulSoup
 from .scrape2 import scrape_result
 from .scrape3 import get_query_from_chat
+import time
 # Function to scrape lyrics from J-Lyric.net
 def scrape_jlyric(data):
     query = get_query_from_chat(data)
     url = f'https://duckduckgo.com/html/?q={query}'
+    time.sleep(200)
     results = scrape_result(url)
     if(not results):
         print('Lyrics not found or unable to scrape.')

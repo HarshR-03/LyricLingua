@@ -1,10 +1,21 @@
 from llama_index.llms.groq import Groq
 from llama_index.core.llms import ChatMessage
 import requests
+from dotenv import load_dotenv
+import os
+import sys
+from pathlib import Path
 
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+# Add parent directory to the Python path
+sys.path.append(str(BASE_DIR.parent))
+
+# Load the .env file
+load_dotenv(dotenv_path=BASE_DIR / '.env')
 def get_query_from_chat(data):
     print(data)
-    llm = Groq(model="mixtral-8x7b-32768", api_key="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")
+    llm = Groq(model="mixtral-8x7b-32768", api_key=os.getenv("GROQ_API_KEY"))
 
     messages = [
         ChatMessage(
@@ -19,6 +30,7 @@ def get_query_from_chat(data):
     resp = llm.chat(messages)
     ind = str(resp).find("assistant")
     resp=str(resp)[ind+10:]
+    print(resp)
     return resp
 
 
