@@ -1,0 +1,1178 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if IE 6]><html class="ie6" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 7]><html class="lt-ie8 lt-ie9" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <!--<![endif]-->
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=1" name="viewport"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="true" name="HandheldFriendly"/>
+  <meta content="noindex, nofollow" name="robots"/>
+  <title>
+   j-lyric レモン Lemon Kenshi Yonezu at DuckDuckGo
+  </title>
+  <link href="//duckduckgo.com/opensearch_html_v2.xml" rel="search" title="DuckDuckGo (HTML)" type="application/opensearchdescription+xml"/>
+  <link href="//duckduckgo.com/favicon.ico" rel="shortcut icon"/>
+  <link href="//duckduckgo.com/favicon.ico" rel="icon" type="image/x-icon"/>
+  <link href="//duckduckgo.com/assets/icons/meta/DDG-iOS-icon_60x60.png?v=2" id="icon60" rel="apple-touch-icon"/>
+  <link href="//duckduckgo.com/assets/icons/meta/DDG-iOS-icon_76x76.png?v=2" id="icon76" rel="apple-touch-icon" sizes="76x76"/>
+  <link href="//duckduckgo.com/assets/icons/meta/DDG-iOS-icon_120x120.png?v=2" id="icon120" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="//duckduckgo.com/assets/icons/meta/DDG-iOS-icon_152x152.png?v=2" id="icon152" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="//duckduckgo.com/assets/icons/meta/DDG-icon_256x256.png" rel="image_src"/>
+  <link href="//duckduckgo.com/dist/h.d0d07246d69c2c566afd.css" media="handheld, all" rel="stylesheet" type="text/css">
+  </link>
+ </head>
+ <body class="body--html">
+  <a id="top" name="top">
+  </a>
+  <form action="/html/" method="post">
+   <input id="state_hidden" name="state_hidden" type="text"/>
+  </form>
+  <div>
+   <div class="site-wrapper-border">
+   </div>
+   <div class="header cw header--html" id="header">
+    <a class="header__logo-wrap" href="/html/" title="DuckDuckGo">
+    </a>
+    <form action="/html/" class="header__form" method="post" name="x">
+     <div class="search search--header">
+      <input autocomplete="off" class="search__input" id="search_form_input_homepage" name="q" type="text" value="j-lyric レモン Lemon Kenshi Yonezu"/>
+      <input alt="Search" class="search__button search__button--html" id="search_button_homepage" name="b" title="Search" type="submit" value=""/>
+     </div>
+     <div class="frm__select">
+      <select name="kl">
+       <option value="">
+        All Regions
+       </option>
+       <option value="ar-es">
+        Argentina
+       </option>
+       <option value="au-en">
+        Australia
+       </option>
+       <option value="at-de">
+        Austria
+       </option>
+       <option value="be-fr">
+        Belgium (fr)
+       </option>
+       <option value="be-nl">
+        Belgium (nl)
+       </option>
+       <option value="br-pt">
+        Brazil
+       </option>
+       <option value="bg-bg">
+        Bulgaria
+       </option>
+       <option value="ca-en">
+        Canada (en)
+       </option>
+       <option value="ca-fr">
+        Canada (fr)
+       </option>
+       <option value="ct-ca">
+        Catalonia
+       </option>
+       <option value="cl-es">
+        Chile
+       </option>
+       <option value="cn-zh">
+        China
+       </option>
+       <option value="co-es">
+        Colombia
+       </option>
+       <option value="hr-hr">
+        Croatia
+       </option>
+       <option value="cz-cs">
+        Czech Republic
+       </option>
+       <option value="dk-da">
+        Denmark
+       </option>
+       <option value="ee-et">
+        Estonia
+       </option>
+       <option value="fi-fi">
+        Finland
+       </option>
+       <option value="fr-fr">
+        France
+       </option>
+       <option value="de-de">
+        Germany
+       </option>
+       <option value="gr-el">
+        Greece
+       </option>
+       <option value="hk-tzh">
+        Hong Kong
+       </option>
+       <option value="hu-hu">
+        Hungary
+       </option>
+       <option value="is-is">
+        Iceland
+       </option>
+       <option value="in-en">
+        India (en)
+       </option>
+       <option value="id-en">
+        Indonesia (en)
+       </option>
+       <option value="ie-en">
+        Ireland
+       </option>
+       <option value="il-en">
+        Israel (en)
+       </option>
+       <option value="it-it">
+        Italy
+       </option>
+       <option value="jp-jp">
+        Japan
+       </option>
+       <option value="kr-kr">
+        Korea
+       </option>
+       <option value="lv-lv">
+        Latvia
+       </option>
+       <option value="lt-lt">
+        Lithuania
+       </option>
+       <option value="my-en">
+        Malaysia (en)
+       </option>
+       <option value="mx-es">
+        Mexico
+       </option>
+       <option value="nl-nl">
+        Netherlands
+       </option>
+       <option value="nz-en">
+        New Zealand
+       </option>
+       <option value="no-no">
+        Norway
+       </option>
+       <option value="pk-en">
+        Pakistan (en)
+       </option>
+       <option value="pe-es">
+        Peru
+       </option>
+       <option value="ph-en">
+        Philippines (en)
+       </option>
+       <option value="pl-pl">
+        Poland
+       </option>
+       <option value="pt-pt">
+        Portugal
+       </option>
+       <option value="ro-ro">
+        Romania
+       </option>
+       <option value="ru-ru">
+        Russia
+       </option>
+       <option value="xa-ar">
+        Saudi Arabia
+       </option>
+       <option value="sg-en">
+        Singapore
+       </option>
+       <option value="sk-sk">
+        Slovakia
+       </option>
+       <option value="sl-sl">
+        Slovenia
+       </option>
+       <option value="za-en">
+        South Africa
+       </option>
+       <option value="es-ca">
+        Spain (ca)
+       </option>
+       <option value="es-es">
+        Spain (es)
+       </option>
+       <option value="se-sv">
+        Sweden
+       </option>
+       <option value="ch-de">
+        Switzerland (de)
+       </option>
+       <option value="ch-fr">
+        Switzerland (fr)
+       </option>
+       <option value="tw-tzh">
+        Taiwan
+       </option>
+       <option value="th-en">
+        Thailand (en)
+       </option>
+       <option value="tr-tr">
+        Turkey
+       </option>
+       <option value="us-en">
+        US (English)
+       </option>
+       <option value="us-es">
+        US (Spanish)
+       </option>
+       <option value="ua-uk">
+        Ukraine
+       </option>
+       <option value="uk-en">
+        United Kingdom
+       </option>
+       <option value="vn-en">
+        Vietnam (en)
+       </option>
+      </select>
+     </div>
+     <div class="frm__select frm__select--last">
+      <select class="" name="df">
+       <option selected="" value="">
+        Any Time
+       </option>
+       <option value="d">
+        Past Day
+       </option>
+       <option value="w">
+        Past Week
+       </option>
+       <option value="m">
+        Past Month
+       </option>
+       <option value="y">
+        Past Year
+       </option>
+      </select>
+     </div>
+    </form>
+   </div>
+   <!-- Web results are present -->
+   <div>
+    <div class="serp__results">
+     <div class="results" id="links">
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://genius.com/Kenshi-yonezu-lemon-lyrics" rel="nofollow">
+          米津玄師 (Kenshi Yonezu) - Lemon Lyrics | Genius Lyrics
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://genius.com/Kenshi-yonezu-lemon-lyrics" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/genius.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://genius.com/Kenshi-yonezu-lemon-lyrics">
+           genius.com/Kenshi-yonezu-lemon-lyrics
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://genius.com/Kenshi-yonezu-lemon-lyrics">
+         <b>
+          Lemon
+         </b>
+         <b>
+          Lyrics
+         </b>
+         : [米津玄師「
+         <b>
+          Lemon
+         </b>
+         」歌詞] / 夢ならばどれほどよかったでしょう / 未だにあなたのことを夢にみる / 忘れた物を取りに帰るように / 古びた ...
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://genius.com/Genius-romanizations-kenshi-yonezu-lemon-romanized-lyrics" rel="nofollow">
+          Lemon (Romanized) - 米津玄師 (Kenshi Yonezu) | Genius Lyrics
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://genius.com/Genius-romanizations-kenshi-yonezu-lemon-romanized-lyrics" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/genius.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://genius.com/Genius-romanizations-kenshi-yonezu-lemon-romanized-lyrics">
+           genius.com/Genius-romanizations-kenshi-yonezu-lemon-romanized-lyrics
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://genius.com/Genius-romanizations-kenshi-yonezu-lemon-romanized-lyrics">
+         米津玄師 (
+         <b>
+          Kenshi
+         </b>
+         <b>
+          Yonezu
+         </b>
+         ) -
+         <b>
+          Lemon
+         </b>
+         (Romanized)
+         <b>
+          Lyrics
+         </b>
+         . [Verse 1] Yume naraba dore hodo yokatta deshou. Imada ni anata no koto wo yume ni miru. Wasureta mono wo tori ni kaeru you ni. Furubita ...
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://www.lyrical-nonsense.com/global/lyrics/kenshi-yonezu/lemon/" rel="nofollow">
+          Kenshi Yonezu - Lemon Lyrics (Romanized) - Lyrical Nonsense
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://www.lyrical-nonsense.com/global/lyrics/kenshi-yonezu/lemon/" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.lyrical-nonsense.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://www.lyrical-nonsense.com/global/lyrics/kenshi-yonezu/lemon/">
+           www.lyrical-nonsense.com/global/lyrics/kenshi-yonezu/lemon/
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://www.lyrical-nonsense.com/global/lyrics/kenshi-yonezu/lemon/">
+         <b>
+          Lyrics
+         </b>
+         for『Lemon』by
+         <b>
+          Kenshi
+         </b>
+         <b>
+          Yonezu
+         </b>
+         , Drama「Unnatural」Theme Song ※ zutto koi wo shiteitakore de sayonara anata no koto ga nani yori mo taisetsu deshitanozomi doori no owari janakatta anata wa dou desu katomodachi ni sura modorenai kara watashi sora wo miteimashitasaigo kurai mata harumeku you na kirei na sayonar
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://genius.com/Genius-english-translations-kenshi-yonezu-lemon-english-translation-lyrics" rel="nofollow">
+          米津玄師 (Kenshi Yonezu) - Lemon (English Translation) - Genius
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://genius.com/Genius-english-translations-kenshi-yonezu-lemon-english-translation-lyrics" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/genius.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://genius.com/Genius-english-translations-kenshi-yonezu-lemon-english-translation-lyrics">
+           genius.com/Genius-english-translations-kenshi-yonezu-lemon-english-translation-lyrics
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://genius.com/Genius-english-translations-kenshi-yonezu-lemon-english-translation-lyrics">
+         [Pre-Chorus] What were you doing, what were you watching Your face in profile, with a look I'd never seen [Chorus] If you are out there somewhere now Lost in the same tears, the same loneliness as ...
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://www.youtube.com/watch?v=pvc2MIM2zpY" rel="nofollow">
+          Lemon/ Kenshi Yonezu - lyrics [Kanji, Romaji, ENG] - YouTube
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://www.youtube.com/watch?v=pvc2MIM2zpY" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.youtube.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://www.youtube.com/watch?v=pvc2MIM2zpY">
+           www.youtube.com/watch?v=pvc2MIM2zpY
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://www.youtube.com/watch?v=pvc2MIM2zpY">
+         ~Attention~To post music on YouTube is allowed by the singer him/herself.Protected by Copyrights and YouTube, the music gets profit and nets the singer and t...
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://en.wikipedia.org/wiki/Lemon_(Kenshi_Yonezu_song)" rel="nofollow">
+          Lemon (Kenshi Yonezu song) - Wikipedia
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://en.wikipedia.org/wiki/Lemon_(Kenshi_Yonezu_song)" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/en.wikipedia.org.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://en.wikipedia.org/wiki/Lemon_(Kenshi_Yonezu_song)">
+           en.wikipedia.org/wiki/Lemon_(Kenshi_Yonezu_song)
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://en.wikipedia.org/wiki/Lemon_(Kenshi_Yonezu_song)">
+         <b>
+          Lemon
+         </b>
+         (
+         <b>
+          Kenshi
+         </b>
+         <b>
+          Yonezu
+         </b>
+         song) "
+         <b>
+          Lemon
+         </b>
+         " is a song by Japanese singer-songwriter
+         <b>
+          Kenshi
+         </b>
+         <b>
+          Yonezu
+         </b>
+         , released as a single through Sony Music Entertainment Japan on March 14, 2018. It is the theme song for the TV series Unnatural. It has sold more than 500,000 physical copies and 3,000,000 digital copies in Japan. [1] [2] [3]
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://www.lyricsondemand.com/kenshi_yonezu/lemon" rel="nofollow">
+          Kenshi Yonezu - Lemon Lyrics with English Translation - Lyrics On Demand
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://www.lyricsondemand.com/kenshi_yonezu/lemon" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.lyricsondemand.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://www.lyricsondemand.com/kenshi_yonezu/lemon">
+           www.lyricsondemand.com/kenshi_yonezu/lemon
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://www.lyricsondemand.com/kenshi_yonezu/lemon">
+         <b>
+          Lemon
+         </b>
+         <b>
+          Lyrics
+         </b>
+         by
+         <b>
+          Kenshi
+         </b>
+         <b>
+          Yonezu
+         </b>
+         with English Translation. Yume naraba dore hodo yokatta deshou Imada ni anata no koto wo yume ni miru Wasureta mono wo tori ni kaeru you ni Furubita omoide no hokori wo hara...
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://lyricstranslate.com/en/kenshi-yonezu-hachi-lemon-lyrics.html" rel="nofollow">
+          Kenshi Yonezu - Lemon lyrics
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://lyricstranslate.com/en/kenshi-yonezu-hachi-lemon-lyrics.html" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/lyricstranslate.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://lyricstranslate.com/en/kenshi-yonezu-hachi-lemon-lyrics.html">
+           lyricstranslate.com/en/kenshi-yonezu-hachi-lemon-lyrics.html
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://lyricstranslate.com/en/kenshi-yonezu-hachi-lemon-lyrics.html">
+         <b>
+          Kenshi
+         </b>
+         <b>
+          Yonezu
+         </b>
+         (米津玄師)
+         <b>
+          Lemon
+         </b>
+         <b>
+          lyrics
+         </b>
+         : 夢ならばどれほどよかったでしょう / 未だにあなたのことを夢にみる / 忘れた物を取りに帰るように / 古びた思い出の埃を払う / 戻らない幸せ...
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://www.animelyrics.com/jpop/kenshiyonezu/lemon.jis.txt" rel="nofollow">
+          Lemon - Kenshi Yonezu; Yonezu Kenshi - Anime Lyrics dot Com
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://www.animelyrics.com/jpop/kenshiyonezu/lemon.jis.txt" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.animelyrics.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://www.animelyrics.com/jpop/kenshiyonezu/lemon.jis.txt">
+           www.animelyrics.com/jpop/kenshiyonezu/lemon.jis.txt
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://www.animelyrics.com/jpop/kenshiyonezu/lemon.jis.txt">
+         <b>
+          Lyrics
+         </b>
+         from Animelyrics.com. Even the sadness of that day, even the pain of that day. Together with you, I loved all of it. What is left over and refuses to leave my chest is the bitter scent of
+         <b>
+          lemon
+         </b>
+         . Until the rain stops, I can't go home. Just like the fragments of a cut-up fruit. Even now, you are my light.
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://www.animelyrics.com/jpop/kenshiyonezu/lemon.jis" rel="nofollow">
+          Lemon - Kenshi Yonezu; Yonezu Kenshi - Jpop - Anime Lyrics dot Com
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://www.animelyrics.com/jpop/kenshiyonezu/lemon.jis" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.animelyrics.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://www.animelyrics.com/jpop/kenshiyonezu/lemon.jis">
+           www.animelyrics.com/jpop/kenshiyonezu/lemon.jis
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://www.animelyrics.com/jpop/kenshiyonezu/lemon.jis">
+         Description: Theme song for "Unnatural" drama Sung by
+         <b>
+          Kenshi
+         </b>
+         <b>
+          Yonezu
+         </b>
+         Music &amp;
+         <b>
+          Lyrics
+         </b>
+         by
+         <b>
+          Kenshi
+         </b>
+         <b>
+          Yonezu
+         </b>
+         View romaji/english
+         <b>
+          lyrics
+         </b>
+         New Feature! Mouseover a kanji character for lookup information!
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://lyricstranslate.com/en/lemon-lemon.html-1" rel="nofollow">
+          Kenshi Yonezu - Lemon (English translation) - Lyrics Translate
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://lyricstranslate.com/en/lemon-lemon.html-1" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/lyricstranslate.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://lyricstranslate.com/en/lemon-lemon.html-1">
+           lyricstranslate.com/en/lemon-lemon.html-1
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://lyricstranslate.com/en/lemon-lemon.html-1">
+         More than I do now. Even the sadness from that day, even the pain from that day, I loved it all, together with you. The bitter scent of
+         <b>
+          lemons
+         </b>
+         remains embedded in my heart. Can't make my way home 'til the rain lets up. Even now you remain my light. In the darkness I traced outlines of your back.
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://www.azlyrics.com/lyrics/kenshiyonezu/lemon.html" rel="nofollow">
+          Kenshi Yonezu - Lemon Lyrics | AZLyrics.com
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://www.azlyrics.com/lyrics/kenshiyonezu/lemon.html" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.azlyrics.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://www.azlyrics.com/lyrics/kenshiyonezu/lemon.html">
+           www.azlyrics.com/lyrics/kenshiyonezu/lemon.html
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://www.azlyrics.com/lyrics/kenshiyonezu/lemon.html">
+         How good it would have been if this were all just a dream. Even now, I still dream of you. Like I'm going home to get something I've forgotten. I dust off my old, worn memories. The last thing you taught me. Is that there are types of happiness that don't come back. The dark past I kept hidden and unsaid.
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://lyricstranslate.com/en/lemon-kenshi-yonezu-lemon-%E3%83%AC%E3%83%A2%E3%83%B3e.html" rel="nofollow">
+          Kenshi Yonezu - Lemon (English translation #3) - Lyrics Translate
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://lyricstranslate.com/en/lemon-kenshi-yonezu-lemon-%E3%83%AC%E3%83%A2%E3%83%B3e.html" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/lyricstranslate.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://lyricstranslate.com/en/lemon-kenshi-yonezu-lemon-%E3%83%AC%E3%83%A2%E3%83%B3e.html">
+           lyricstranslate.com/en/lemon-kenshi-yonezu-lemon-レモンe.html
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://lyricstranslate.com/en/lemon-kenshi-yonezu-lemon-%E3%83%AC%E3%83%A2%E3%83%B3e.html">
+         <b>
+          Lemon
+         </b>
+         . I wonder how nice it would be if this were all just a dream. Even now, I still see traces of you in my dreams. As though I were going back home to grab something I'd forgotten, I clear off the dust from these old and worn memories. The fact that there are some kinds of happiness that don't come back was the final thing that you taught me.
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://owldb.net/lemon-kenshi-yonezu/" rel="nofollow">
+          Kenshi Yonezu - Lemon Lyrics + English Translation - OWLDB
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://owldb.net/lemon-kenshi-yonezu/" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/owldb.net.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://owldb.net/lemon-kenshi-yonezu/">
+           owldb.net/lemon-kenshi-yonezu/
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://owldb.net/lemon-kenshi-yonezu/">
+         More than I do now. Even the sadness from that day, even the pain from that day. I loved it all, together with you. The bitter scent of
+         <b>
+          lemons
+         </b>
+         remains embedded in my heart. Can't make my way home 'til the rain lets up. Even now you remain my light. In the darkness I traced the outlines of your back.
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://www.youtube.com/watch?v=WLZjlQhYxHU" rel="nofollow">
+          Kenshi Yonezu (米津玄師) - Lemon『レモン』 [Lyrics/Romaji] - YouTube
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://www.youtube.com/watch?v=WLZjlQhYxHU" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.youtube.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://www.youtube.com/watch?v=WLZjlQhYxHU">
+           www.youtube.com/watch?v=WLZjlQhYxHU
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://www.youtube.com/watch?v=WLZjlQhYxHU">
+         <b>
+          Kenshi
+         </b>
+         <b>
+          Yonezu
+         </b>
+         (米津玄師) -
+         <b>
+          Lemon
+         </b>
+         『レモン』 [
+         <b>
+          Lyrics
+         </b>
+         /Romaji]@KenshiYonezu /
+         <b>
+          Kenshi
+         </b>
+         <b>
+          Yonezu
+         </b>
+         Channel : https://youtube.com/@KenshiYonezuVideo Music Official ...
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://hiraganalyrics.com/jpop/k-j/kenshiyonezu/lemon/" rel="nofollow">
+          Lemon - レモン - 米津玄師 - Kenshi Yonezu - Hiragana Lyrics
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://hiraganalyrics.com/jpop/k-j/kenshiyonezu/lemon/" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/hiraganalyrics.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://hiraganalyrics.com/jpop/k-j/kenshiyonezu/lemon/">
+           hiraganalyrics.com/jpop/k-j/kenshiyonezu/lemon/
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://hiraganalyrics.com/jpop/k-j/kenshiyonezu/lemon/">
+         <b>
+          Lemon
+         </b>
+         -
+         <b>
+          レモン
+         </b>
+         歌詞 - 米津玄師 (
+         <b>
+          Kenshi
+         </b>
+         <b>
+          Yonezu
+         </b>
+         ) カラオケ 夢ならばどれほどよかったでしょう 未だにあなたのことを夢にみる 忘れた物を取りに帰るように 古びた思い出の埃を払う. 戻らない幸せがあることを 最後にあなたが教えてくれた 言えずに隠してた ...
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://tabs.ultimate-guitar.com/tab/3256832" rel="nofollow">
+          LEMON CHORDS (ver 2) by Kenshi Yonezu (米津 玄師) - ULTIMATE GUITAR
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://tabs.ultimate-guitar.com/tab/3256832" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/tabs.ultimate-guitar.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://tabs.ultimate-guitar.com/tab/3256832">
+           tabs.ultimate-guitar.com/tab/3256832
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://tabs.ultimate-guitar.com/tab/3256832">
+         <b>
+          Lemon
+         </b>
+         Chords by
+         <b>
+          Kenshi
+         </b>
+         <b>
+          Yonezu
+         </b>
+         (米津 玄師) 37,690 views, added to favorites 524 times. An easier to play chord version using different key and capo. Was this info helpful? Yes No. Difficulty: intermediate: Tuning: E A D G B E: Capo: 4th fret: Author arvinguinto [a] 181. Last edit on Feb 14, 2022. View interactive tab. Download Pdf.
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://www.animenewsnetwork.com/press-release/2024-07-20/icymi-new-album-from-global-j-pop-superstar-kenshi-yonezu-lost-corner-available-digitally-august-21-/.213415" rel="nofollow">
+          ICYMI: New Album From Global J-Pop Superstar Kenshi Yonezu Lost Corner ...
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://www.animenewsnetwork.com/press-release/2024-07-20/icymi-new-album-from-global-j-pop-superstar-kenshi-yonezu-lost-corner-available-digitally-august-21-/.213415" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.animenewsnetwork.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://www.animenewsnetwork.com/press-release/2024-07-20/icymi-new-album-from-global-j-pop-superstar-kenshi-yonezu-lost-corner-available-digitally-august-21-/.213415">
+           www.animenewsnetwork.com/press-release/2024-07-20/icymi-new-album-from-global-j-pop-superstar-kenshi-yonezu-lost-corner-available-digitally-august-21-/.213415
+          </a>
+          <span>
+           2024-07-20T14:17:20.0000000
+          </span>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://www.animenewsnetwork.com/press-release/2024-07-20/icymi-new-album-from-global-j-pop-superstar-kenshi-yonezu-lost-corner-available-digitally-august-21-/.213415">
+         The song also turned out to be the 100th song released under
+         <b>
+          Kenshi
+         </b>
+         <b>
+          Yonezu's
+         </b>
+         real name. He also appeared in fashion brand LOEWE's FW23 men's collection campaign, coinciding with the brand's 50th ...
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://www.indiamart.com/proddetail/lemon-oil-fragrances-20793742812.html" rel="nofollow">
+          Lemon Oil Fragrances at best price in New Delhi by Seth Brothers ...
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://www.indiamart.com/proddetail/lemon-oil-fragrances-20793742812.html" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.indiamart.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://www.indiamart.com/proddetail/lemon-oil-fragrances-20793742812.html">
+           www.indiamart.com/proddetail/lemon-oil-fragrances-20793742812.html
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://www.indiamart.com/proddetail/lemon-oil-fragrances-20793742812.html">
+         Get
+         <b>
+          Lemon
+         </b>
+         Oil Fragrances in Rohini, New Delhi, Delhi at best price by Seth Brothers (Perfumers) Private Limited. Also find Fragrance Oil price list from verified suppliers with contact number | ID: 20793742812
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://genius.com/albums/Kenshi-yonezu/Lemon" rel="nofollow">
+          米津玄師 (Kenshi Yonezu) - Lemon Lyrics and Tracklist | Genius
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://genius.com/albums/Kenshi-yonezu/Lemon" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/genius.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://genius.com/albums/Kenshi-yonezu/Lemon">
+           genius.com/albums/Kenshi-yonezu/Lemon
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://genius.com/albums/Kenshi-yonezu/Lemon">
+         Paper Flower
+         <b>
+          Lyrics
+         </b>
+         . About "
+         <b>
+          Lemon
+         </b>
+         ". A single by
+         <b>
+          Yonezu
+         </b>
+         <b>
+          Kenshi
+         </b>
+         that released in 14th March 2018, and it features an ending song for a Japanese drama, "Unnatural".
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://hiraganalyrics.com/jpop/k-j/kenshiyonezu/lemon-2/" rel="nofollow">
+          Lemon - レモン - 米津玄師 (Kenshi Yonezu) - Hiragana Lyrics
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://hiraganalyrics.com/jpop/k-j/kenshiyonezu/lemon-2/" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/hiraganalyrics.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://hiraganalyrics.com/jpop/k-j/kenshiyonezu/lemon-2/">
+           hiraganalyrics.com/jpop/k-j/kenshiyonezu/lemon-2/
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://hiraganalyrics.com/jpop/k-j/kenshiyonezu/lemon-2/">
+         胸に残り離れない 苦いレモンの匂い. 雨が降り止むまでは帰れない. 切り分けた果実の片方の様に. 今でもあなたはわたしの光. Singer:
+         <b>
+          Kenshi
+         </b>
+         <b>
+          Yonezu
+         </b>
+         / 米津玄師. Album: Stray Sheep. Drama ドラマ: Unnatural / アンナチュラル. (3 votes, average: 5.00 out of 5)
+         <b>
+          kenshiyonezu
+         </b>
+         Japanese
+         <b>
+          Lyrics
+         </b>
+         .
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://www.lemontreehotels.com/lemon-tree-premier/delhi/delhi-international-airport" rel="nofollow">
+          Lemon Tree Premier, Delhi Airport
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://www.lemontreehotels.com/lemon-tree-premier/delhi/delhi-international-airport" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.lemontreehotels.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://www.lemontreehotels.com/lemon-tree-premier/delhi/delhi-international-airport">
+           www.lemontreehotels.com/lemon-tree-premier/delhi/delhi-international-airport
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://www.lemontreehotels.com/lemon-tree-premier/delhi/delhi-international-airport">
+         Asset No. 6, Aerocity Hospitality District IGI Airport, New Delhi - 110037, India. 5121 reviews 13856 reviews. Show all photos.
+         <b>
+          Lemon
+         </b>
+         Tree Premier, Delhi Airport is 4 kms away from Indira Gandhi International Airport and 5 kms away from the domestic airport. Also, the hotel is just a kilometre away from the Aerocity Metro Station which gives ...
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://www.zomato.com/ncr/lemon-drops-1-vasant-kunj-new-delhi/menu" rel="nofollow">
+          Lemon Drops Menu, Menu for Lemon Drops, Vasant Kunj, New Delhi - Zomato
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://www.zomato.com/ncr/lemon-drops-1-vasant-kunj-new-delhi/menu" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.zomato.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://www.zomato.com/ncr/lemon-drops-1-vasant-kunj-new-delhi/menu">
+           www.zomato.com/ncr/lemon-drops-1-vasant-kunj-new-delhi/menu
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://www.zomato.com/ncr/lemon-drops-1-vasant-kunj-new-delhi/menu">
+         <b>
+          Lemon
+         </b>
+         Drops Vasant Kunj Menu - View the Menu for
+         <b>
+          Lemon
+         </b>
+         Drops New Delhi on Zomato for Delivery, Dine-out or Takeaway,
+         <b>
+          Lemon
+         </b>
+         Drops menu and prices.
+         <b>
+          Lemon
+         </b>
+         Drops Menu. Serves North Indian, South Indian. Cost ₹500 for two people (approx.) Exclusive of applicable taxes and charges, if any.
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://www.lemontreehotels.com/delhi-hotels" rel="nofollow">
+          Lemon Tree hotels, Delhi | Best Hotels &amp; Restaurants in Delhi
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://www.lemontreehotels.com/delhi-hotels" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.lemontreehotels.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://www.lemontreehotels.com/delhi-hotels">
+           www.lemontreehotels.com/delhi-hotels
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://www.lemontreehotels.com/delhi-hotels">
+         Sandal Suites, Operated by
+         <b>
+          Lemon
+         </b>
+         Tree Hotels, Noida Assotech Business Cresterra, 22, Sector-135, Noida Expressway, Noida, Uttar Pradesh - 201301, India, Noida, Uttar Pradesh - 201301 Distance: 42 km 28 km
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="nav-link">
+       <form action="/html/" method="post">
+        <input class="btn btn--alt" type="submit" value="Next"/>
+        <input name="q" type="hidden" value="j-lyric レモン Lemon Kenshi Yonezu"/>
+        <input name="s" type="hidden" value="24"/>
+        <input name="nextParams" type="hidden" value=""/>
+        <input name="v" type="hidden" value="l"/>
+        <input name="o" type="hidden" value="json"/>
+        <input name="dc" type="hidden" value="25"/>
+        <input name="api" type="hidden" value="d.js"/>
+        <input name="vqd" type="hidden" value="4-310373048350436771940194734868668464500"/>
+        <input name="kl" type="hidden" value="wt-wt"/>
+       </form>
+      </div>
+      <div class="feedback-btn">
+       <a href="//duckduckgo.com/feedback.html" rel="nofollow" target="_new">
+        Feedback
+       </a>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+    </div>
+    <!-- links wrapper //-->
+   </div>
+  </div>
+  <div id="bottom_spacing2">
+  </div>
+  <img src="//duckduckgo.com/t/sl_h"/>
+ </body>
+</html>
