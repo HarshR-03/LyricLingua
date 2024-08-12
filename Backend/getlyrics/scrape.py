@@ -32,7 +32,7 @@ def scrape_jlyric(data):
                 lyrics_paragraphs = soup.find_all('div', class_='tab_content_description')
                 lyrics_paragraphs = [lyrics_paragraphs[0]]
             lyrics.append(str(lyrics_paragraphs))
-    print(lyrics)
+    # print(lyrics)
     return lyrics
 
 

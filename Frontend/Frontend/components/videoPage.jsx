@@ -9,7 +9,7 @@ const YoutubeEmbed = () => {
   const { state } = useLocation()
   useEffect(() => {
     const getData = async (state) => {
-      var lyrics = await fetch('http://localhost:8000/lyrics/',
+      var lyrics = await fetch('https://lyriclingua.onrender.com/lyrics/',
         {
           method: "POST",
           body: JSON.stringify(state)

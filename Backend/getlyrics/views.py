@@ -9,6 +9,8 @@ def getData(request):
     if request.method == 'POST':
         args = json.loads(request.body.decode('utf-8'))
         response = scrape_jlyric(args)
+        if response is None or len(response)==0:
+            return JsonResponse({"error": "No data found"}, status=404)
         return JsonResponse(response,safe=False)
     else:
         return HttpResponse("Error 404! bad request")
