@@ -4,7 +4,7 @@ import { useLocation, useParams } from "react-router-dom";
 import VideoPlayer from "./vidplayer";
 
 const YoutubeEmbed = () => {
-  const [data, setData] = useState();
+  const [data, setData] = useState("Lyrics Loading");
   const { videoId } = useParams()
   const { state } = useLocation()
   useEffect(() => {
@@ -28,14 +28,25 @@ const YoutubeEmbed = () => {
     temp.innerHTML = lyric
     return temp
   }
-  return (<div className="m-4 p-2 min-w-full min-h-full grid-cols-2"> 
-  <div className="m-4 sm:m-8">
-    <VideoPlayer videoId={videoId} />
-  </div>
-  {data && <div>
-    {dummy()}
-  </div>}
-  </div>)
+  return (
+    <div className=" p-4 min-w-full min-h-full grid grid-cols-1 md:grid-cols-2 gap-4">
+      <div className="m-4 sm:m-8 flex flex-col items-center">
+        <div className="w-full h-full p-4 rounded-lg">
+          <VideoPlayer videoId={videoId} />
+        </div>
+      </div>
+  
+      <div className="m-4 sm:m-8 flex flex-col items-center">
+        <div className="w-full h-full bg-gray-700 bg-opacity-50 p-4 rounded-lg text-white">
+          <div
+            dangerouslySetInnerHTML={{ __html: data }}
+            className="whitespace-pre-wrap text-lg leading-relaxed"
+          />
+        </div>
+      </div>
+    </div>
+  );
+  
 };
 
 
