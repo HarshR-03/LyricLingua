@@ -1,5 +1,5 @@
 bs4==0.0.2
-django-admin
+Django
 requests==2.32.3
 google-api-python-client==2.138.0
 llama-index==0.10.53
