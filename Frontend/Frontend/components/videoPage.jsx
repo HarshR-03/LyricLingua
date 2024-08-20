@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import { useLocation, useParams } from "react-router-dom";
 import VideoPlayer from "./vidplayer";
 
+//
 const YoutubeEmbed = () => {
   const [data, setData] = useState("Lyrics Loading");
   const { videoId } = useParams()
@@ -29,7 +30,7 @@ const YoutubeEmbed = () => {
     return temp
   }
   return (
-    <div className=" p-4 min-w-full min-h-full grid grid-cols-1 md:grid-cols-2 gap-4">
+    <div className="p-4 min-w-full min-h-full grid grid-cols-1 md:grid-cols-2 gap-4">
       <div className="m-4 sm:m-8 flex flex-col items-center">
         <div className="w-full h-full p-4 rounded-lg">
           <VideoPlayer videoId={videoId} />
@@ -39,8 +40,8 @@ const YoutubeEmbed = () => {
       <div className="m-4 sm:m-8 flex flex-col items-center">
         <div className="w-full h-full bg-gray-700 bg-opacity-50 p-4 rounded-lg text-white">
           <div
-            dangerouslySetInnerHTML={{ __html: data }}
-            className="whitespace-pre-wrap text-lg leading-relaxed"
+            dangerouslySetInnerHTML={{ __html: data[0] }}
+            className="whitespace-pre-wrap text-lg leading-relaxed max-h-96 overflow-y-auto"
           />
         </div>
       </div>
