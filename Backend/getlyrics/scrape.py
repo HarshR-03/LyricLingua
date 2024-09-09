@@ -7,7 +7,7 @@ import time
 def scrape_jlyric(data):
     query = get_query_from_chat(data)
     url = f'https://duckduckgo.com/html/?q={query}'
-    time.sleep(200)
+    time.sleep(50)
     results = scrape_result(url)
     if(not results):
         print('Lyrics not found or unable to scrape.')

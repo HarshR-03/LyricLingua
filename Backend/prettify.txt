@@ -12,7 +12,7 @@
   <meta content="true" name="HandheldFriendly"/>
   <meta content="noindex, nofollow" name="robots"/>
   <title>
-   j-lyric わがまま。 ユイカ at DuckDuckGo
+   j-lyric わがまま。 Yuika at DuckDuckGo
   </title>
   <link href="//duckduckgo.com/opensearch_html_v2.xml" rel="search" title="DuckDuckGo (HTML)" type="application/opensearchdescription+xml"/>
   <link href="//duckduckgo.com/favicon.ico" rel="shortcut icon"/>
@@ -39,7 +39,7 @@
     </a>
     <form action="/html/" class="header__form" method="post" name="x">
      <div class="search search--header">
-      <input autocomplete="off" class="search__input" id="search_form_input_homepage" name="q" type="text" value="j-lyric わがまま。 ユイカ"/>
+      <input autocomplete="off" class="search__input" id="search_form_input_homepage" name="q" type="text" value="j-lyric わがまま。 Yuika"/>
       <input alt="Search" class="search__button search__button--html" id="search_button_homepage" name="b" title="Search" type="submit" value=""/>
      </div>
      <div class="frm__select">
@@ -267,33 +267,6 @@
        <div class="links_main links_deep result__body">
         <!-- This is the visible part -->
         <h2 class="result__title">
-         <a class="result__a" href="https://www.youtube.com/watch?v=guxVm74TD4Q" rel="nofollow">
-          わがまま。/ 『ユイカ』【Lyric Video】 - YouTube
-         </a>
-        </h2>
-        <div class="result__extras">
-         <div class="result__extras__url">
-          <span class="result__icon">
-           <a href="https://www.youtube.com/watch?v=guxVm74TD4Q" rel="nofollow">
-            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.youtube.com.ico" width="16"/>
-           </a>
-          </span>
-          <a class="result__url" href="https://www.youtube.com/watch?v=guxVm74TD4Q">
-           www.youtube.com/watch?v=guxVm74TD4Q
-          </a>
-         </div>
-        </div>
-        <a class="result__snippet" href="https://www.youtube.com/watch?v=guxVm74TD4Q">
-         ★2024.6.14 Release1st Album『紺色に憧れて』https://yuika.lnk.to/navyblueID 【credit】 Music&amp;Lyric : 『ユイカ』 Movie：Saki Naito（Vanishock ...
-        </a>
-        <div class="clear">
-        </div>
-       </div>
-      </div>
-      <div class="result results_links results_links_deep web-result">
-       <div class="links_main links_deep result__body">
-        <!-- This is the visible part -->
-        <h2 class="result__title">
          <a class="result__a" href="https://genius.com/Genius-romanizations-yuika-selfish-romanized-lyrics" rel="nofollow">
           わがまま。(Selfish) (Romanized) - 『ユイカ』(Yuika) | Genius Lyrics
          </a>
@@ -314,11 +287,88 @@
          </div>
         </div>
         <a class="result__snippet" href="https://genius.com/Genius-romanizations-yuika-selfish-romanized-lyrics">
-         『ユイカ』(Yuika) - わがまま。(Selfish) (Romanized)
+         Translations. 『ユイカ』 (
+         <b>
+          Yuika
+         </b>
+         ) - わがまま。. (Selfish) (Romanized)
          <b>
           Lyrics
          </b>
-         : Watashi gyutte shitai no desu! / Motto aitai no desu! / Hontou wa motto / Chikaku ni itai no ni / Aenai aida ni / Kawaiku naru ...
+         . [Verse 1] Watashi gyutte shitai no desu! Motto aitai no desu! Hontou wa motto. Chikaku ni itai no ni. Aenai ...
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://genius.com/Yuika-selfish-lyrics" rel="nofollow">
+          『ユイカ』(Yuika) - わがまま。(Selfish) Lyrics | Genius Lyrics
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://genius.com/Yuika-selfish-lyrics" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/genius.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://genius.com/Yuika-selfish-lyrics">
+           genius.com/Yuika-selfish-lyrics
+          </a>
+          <span>
+           2024-06-14T00:00:00.0000000
+          </span>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://genius.com/Yuika-selfish-lyrics">
+         Use italics (&lt;i&gt;
+         <b>
+          lyric
+         </b>
+         &lt;/i&gt;) and bold (
+         <b>
+          lyric
+         </b>
+         ) to distinguish between different vocalists in the same song part If you don't understand a
+         <b>
+          lyric
+         </b>
+         , use [?] To learn more, check out our ...
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://www.youtube.com/watch?v=guxVm74TD4Q" rel="nofollow">
+          わがまま。/ 『ユイカ』【Lyric Video】 - YouTube
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://www.youtube.com/watch?v=guxVm74TD4Q" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.youtube.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://www.youtube.com/watch?v=guxVm74TD4Q">
+           www.youtube.com/watch?v=guxVm74TD4Q
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://www.youtube.com/watch?v=guxVm74TD4Q">
+         ★2024.6.14 Release1st Album『紺色に憧れて』https://
+         <b>
+          yuika
+         </b>
+         .lnk.to/navyblueID 【credit】 Music&amp;Lyric : 『ユイカ』 Movie：Saki Naito（Vanishock ...
         </a>
         <div class="clear">
         </div>
@@ -345,7 +395,11 @@
          </div>
         </div>
         <a class="result__snippet" href="https://www.youtube.com/watch?v=hXWHeFpZJoQ">
-         USE HEADPHONE FOR BETTER EXPERIENCE Stream: https://yuika.lnk.to/navyblueID Artist:『ユイカ』(Yuika) Song: わがまま。(Wagamama) Official MV: https://www ...
+         USE HEADPHONE FOR BETTER EXPERIENCE Stream: https://
+         <b>
+          yuika
+         </b>
+         .lnk.to/navyblueID Artist:『ユイカ』(Yuika) Song: わがまま。(Wagamama) Official MV: https://www ...
         </a>
         <div class="clear">
         </div>
@@ -355,98 +409,47 @@
        <div class="links_main links_deep result__body">
         <!-- This is the visible part -->
         <h2 class="result__title">
-         <a class="result__a" href="https://www.uta5.com/kasi/122044" rel="nofollow">
-          『ユイカ』 - わがまま。 歌詞 ( Lyrics) | UTA5歌詞
+         <a class="result__a" href="https://plyric.com/%E3%80%8E%E3%83%A6%E3%82%A4%E3%82%AB%E3%80%8F-yuika-%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%BE%E3%80%82-selfish-english-translation" rel="nofollow">
+          『ユイカ』(Yuika) - わがまま。(Selfish) lyrics (English Translation) | Plyric
          </a>
         </h2>
         <div class="result__extras">
          <div class="result__extras__url">
           <span class="result__icon">
-           <a href="https://www.uta5.com/kasi/122044" rel="nofollow">
-            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.uta5.com.ico" width="16"/>
+           <a href="https://plyric.com/%E3%80%8E%E3%83%A6%E3%82%A4%E3%82%AB%E3%80%8F-yuika-%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%BE%E3%80%82-selfish-english-translation" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/plyric.com.ico" width="16"/>
            </a>
           </span>
-          <a class="result__url" href="https://www.uta5.com/kasi/122044">
-           www.uta5.com/kasi/122044
+          <a class="result__url" href="https://plyric.com/%E3%80%8E%E3%83%A6%E3%82%A4%E3%82%AB%E3%80%8F-yuika-%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%BE%E3%80%82-selfish-english-translation">
+           plyric.com/『ユイカ』-yuika-わがまま。-selfish-english-translation
           </a>
+          <span>
+           2024-06-14T00:00:00.0000000
+          </span>
          </div>
         </div>
-        <a class="result__snippet" href="https://www.uta5.com/kasi/122044">
-         『ユイカ』 -
+        <a class="result__snippet" href="https://plyric.com/%E3%80%8E%E3%83%A6%E3%82%A4%E3%82%AB%E3%80%8F-yuika-%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%BE%E3%80%82-selfish-english-translation">
+         わがまま。(Selfish)
          <b>
-          わがまま。
+          lyrics
          </b>
-         歌詞 (
+         (English Translation) by 『ユイカ』(
+         <b>
+          Yuika
+         </b>
+         ) Album. 紺色に憧れて (Longing for navy blue)
          <b>
           Lyrics
          </b>
-         ) ：私ぎゅってしたいのです! もっと会いたいのです! 本当はもっと 近くにいたいのに…。 会えない間に かわいくなるから 他の子は見ないで 私を見て!
-        </a>
-        <div class="clear">
-        </div>
-       </div>
-      </div>
-      <div class="result results_links results_links_deep web-result">
-       <div class="links_main links_deep result__body">
-        <!-- This is the visible part -->
-        <h2 class="result__title">
-         <a class="result__a" href="https://genius.com/Yuika-selfish-lyrics" rel="nofollow">
-          『ユイカ』(Yuika) - わがまま。(Selfish) Lyrics | Genius Lyrics
-         </a>
-        </h2>
-        <div class="result__extras">
-         <div class="result__extras__url">
-          <span class="result__icon">
-           <a href="https://genius.com/Yuika-selfish-lyrics" rel="nofollow">
-            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/genius.com.ico" width="16"/>
-           </a>
-          </span>
-          <a class="result__url" href="https://genius.com/Yuika-selfish-lyrics">
-           genius.com/Yuika-selfish-lyrics
-          </a>
-         </div>
-        </div>
-        <a class="result__snippet" href="https://genius.com/Yuika-selfish-lyrics">
-         Use italics (&lt;i&gt;
+         Genre. Pop
          <b>
-          lyric
+          J
          </b>
-         &lt;/i&gt;) and bold (
+         Pop Japanese. Released to. ... Video about 『ユイカ』(
          <b>
-          lyric
+          Yuika
          </b>
-         ) to distinguish between different vocalists in the same song part If you don't understand a
-         <b>
-          lyric
-         </b>
-         , use [?] To learn more, check out our ...
-        </a>
-        <div class="clear">
-        </div>
-       </div>
-      </div>
-      <div class="result results_links results_links_deep web-result">
-       <div class="links_main links_deep result__body">
-        <!-- This is the visible part -->
-        <h2 class="result__title">
-         <a class="result__a" href="https://www.lyrical-nonsense.com/lyrics/yuika/wagamama/" rel="nofollow">
-          『ユイカ』 わがまま。 歌詞 -【歌詞リリ】
-         </a>
-        </h2>
-        <div class="result__extras">
-         <div class="result__extras__url">
-          <span class="result__icon">
-           <a href="https://www.lyrical-nonsense.com/lyrics/yuika/wagamama/" rel="nofollow">
-            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.lyrical-nonsense.com.ico" width="16"/>
-           </a>
-          </span>
-          <a class="result__url" href="https://www.lyrical-nonsense.com/lyrics/yuika/wagamama/">
-           www.lyrical-nonsense.com/lyrics/yuika/wagamama/
-          </a>
-         </div>
-        </div>
-        <a class="result__snippet" href="https://www.lyrical-nonsense.com/lyrics/yuika/wagamama/">
-         『ユイカ』『わがまま。』の歌詞ページです。『わがまま。』の歌い出しは ※ 私ぎゅってしたいのです! もっと会いたいのです! 本当はもっと 近くにいたいのに…。 会えない間に かわいくなるから 他の子は見ないで 私を見て! あの子はいいよな 好きな時に会えて くっついちゃったりし ...
+         ) - わがまま。(Selfish) (English Translation) Some videos may be incorrect, apologies if this is the case, we are improving ...
         </a>
         <div class="clear">
         </div>
@@ -483,6 +486,64 @@
        <div class="links_main links_deep result__body">
         <!-- This is the visible part -->
         <h2 class="result__title">
+         <a class="result__a" href="https://www.lyrical-nonsense.com/lyrics/yuika/wagamama/" rel="nofollow">
+          『ユイカ』 わがまま。 歌詞 -【歌詞リリ】
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://www.lyrical-nonsense.com/lyrics/yuika/wagamama/" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.lyrical-nonsense.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://www.lyrical-nonsense.com/lyrics/yuika/wagamama/">
+           www.lyrical-nonsense.com/lyrics/yuika/wagamama/
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://www.lyrical-nonsense.com/lyrics/yuika/wagamama/">
+         『ユイカ』『わがまま。』の歌詞ページです。『わがまま。』の歌い出しは ※ 私ぎゅってしたいのです! もっと会いたいのです! 本当はもっと 近くにいたいのに…。 会えない間に かわいくなるから 他の子は見ないで 私を見て! あの子はいいよな 好きな時に会えて くっついちゃったりし ...
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://www.uta5.com/kasi/122044" rel="nofollow">
+          『ユイカ』 - わがまま。 歌詞 ( Lyrics) | UTA5歌詞
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://www.uta5.com/kasi/122044" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.uta5.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://www.uta5.com/kasi/122044">
+           www.uta5.com/kasi/122044
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://www.uta5.com/kasi/122044">
+         Because you are coming. I love you this. 『ユイカ』 - わがまま。. 歌詞 (
+         <b>
+          Lyrics
+         </b>
+         ) ：私ぎゅってしたいのです!. もっと会いたいのです!. 本当はもっと 近くにいたいのに…。. 会えない間に かわいくなるから 他の子は見ないで 私を見て!.
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
          <a class="result__a" href="https://www.youtube.com/watch?v=s_BqHZqMzbs" rel="nofollow">
           Yuika『ユイカ』~ わがまま。(Wagamama) Lyrics ROM/ENG - YouTube
          </a>
@@ -500,7 +561,14 @@
          </div>
         </div>
         <a class="result__snippet" href="https://www.youtube.com/watch?v=s_BqHZqMzbs">
-         Credits: Details of the video~Song: わがまま。(Wagamama)Music：『ユイカ』 / Yuikahttps://youtu.be/guxVm74TD4Q?si=nXLJmN8opAYHzZokPlease support the ...
+         These
+         <b>
+          lyrics
+         </b>
+         are the best i have seen so far in my editing~ The meaning is everything ️ ️﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌Credits: Details of the video~Song:
+         <b>
+          わがまま。
+         </b>
         </a>
         <div class="clear">
         </div>
@@ -537,39 +605,89 @@
        <div class="links_main links_deep result__body">
         <!-- This is the visible part -->
         <h2 class="result__title">
-         <a class="result__a" href="https://plyric.com/%E3%80%8E%E3%83%A6%E3%82%A4%E3%82%AB%E3%80%8F-yuika-%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%BE%E3%80%82-selfish-english-translation" rel="nofollow">
-          『ユイカ』(Yuika) - わがまま。(Selfish) lyrics (English Translation) | Plyric
+         <a class="result__a" href="https://music.youtube.com/watch?v=guxVm74TD4Q&amp;list=OLAK5uy_lmiICEgSHOSnc55UzdwgB0TkUXIV8oeXA" rel="nofollow">
+          わがまま。/ 『ユイカ』【Lyric Video】 - YouTube Music
          </a>
         </h2>
         <div class="result__extras">
          <div class="result__extras__url">
           <span class="result__icon">
-           <a href="https://plyric.com/%E3%80%8E%E3%83%A6%E3%82%A4%E3%82%AB%E3%80%8F-yuika-%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%BE%E3%80%82-selfish-english-translation" rel="nofollow">
-            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/plyric.com.ico" width="16"/>
+           <a href="https://music.youtube.com/watch?v=guxVm74TD4Q&amp;list=OLAK5uy_lmiICEgSHOSnc55UzdwgB0TkUXIV8oeXA" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/music.youtube.com.ico" width="16"/>
            </a>
           </span>
-          <a class="result__url" href="https://plyric.com/%E3%80%8E%E3%83%A6%E3%82%A4%E3%82%AB%E3%80%8F-yuika-%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%BE%E3%80%82-selfish-english-translation">
-           plyric.com/『ユイカ』-yuika-わがまま。-selfish-english-translation
+          <a class="result__url" href="https://music.youtube.com/watch?v=guxVm74TD4Q&amp;list=OLAK5uy_lmiICEgSHOSnc55UzdwgB0TkUXIV8oeXA">
+           music.youtube.com/watch?v=guxVm74TD4Q&amp;list=OLAK5uy_lmiICEgSHOSnc55UzdwgB0TkUXIV8oeXA
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://music.youtube.com/watch?v=guxVm74TD4Q&amp;list=OLAK5uy_lmiICEgSHOSnc55UzdwgB0TkUXIV8oeXA">
+         Add similar content to the end of the queue. Autoplay is on. Player bar
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://matchlyric.com/%E3%80%8E%E3%83%A6%E3%82%A4%E3%82%AB%E3%80%8Fyuika-%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%BE%E3%80%82selfish" rel="nofollow">
+          『ユイカ』(Yuika) - わがまま。lyrics (Selfish) | Matchlyric
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://matchlyric.com/%E3%80%8E%E3%83%A6%E3%82%A4%E3%82%AB%E3%80%8Fyuika-%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%BE%E3%80%82selfish" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/matchlyric.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://matchlyric.com/%E3%80%8E%E3%83%A6%E3%82%A4%E3%82%AB%E3%80%8Fyuika-%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%BE%E3%80%82selfish">
+           matchlyric.com/『ユイカ』yuika-わがまま。selfish
           </a>
           <span>
            2024-06-14T00:00:00.0000000
           </span>
          </div>
         </div>
-        <a class="result__snippet" href="https://plyric.com/%E3%80%8E%E3%83%A6%E3%82%A4%E3%82%AB%E3%80%8F-yuika-%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%BE%E3%80%82-selfish-english-translation">
-         わがまま。(Selfish)
+        <a class="result__snippet" href="https://matchlyric.com/%E3%80%8E%E3%83%A6%E3%82%A4%E3%82%AB%E3%80%8Fyuika-%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%BE%E3%80%82selfish">
+         わがままばっかな私だけど 離さないでね離さないから 今も ずっと大好き。 Verse 2 わたしちゃんと伝えれてますか？ 好きって伝わってますか？ どんなに言葉にしても この距離は埋まんなくて。 会えない間にかわいくなりすぎて 貴方気づかないかもね。 Pre ...
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="result results_links results_links_deep web-result">
+       <div class="links_main links_deep result__body">
+        <!-- This is the visible part -->
+        <h2 class="result__title">
+         <a class="result__a" href="https://www.letrasboom.com/letra/selfish-yuika" rel="nofollow">
+          わがまま。(Selfish) [LETRA] 『ユイカ』(Yuika) | LYRICS | LETRASBOOM.COM
+         </a>
+        </h2>
+        <div class="result__extras">
+         <div class="result__extras__url">
+          <span class="result__icon">
+           <a href="https://www.letrasboom.com/letra/selfish-yuika" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.letrasboom.com.ico" width="16"/>
+           </a>
+          </span>
+          <a class="result__url" href="https://www.letrasboom.com/letra/selfish-yuika">
+           www.letrasboom.com/letra/selfish-yuika
+          </a>
+         </div>
+        </div>
+        <a class="result__snippet" href="https://www.letrasboom.com/letra/selfish-yuika">
+         Letra de わがまま。(Selfish) - 『ユイカ』(
          <b>
-          lyrics
+          Yuika
          </b>
-         (English Translation) by 『ユイカ』(Yuika) Album. 紺色に憧れて (Longing for navy blue)
+         ).
          <b>
           Lyrics
          </b>
-         Genre. Pop
-         <b>
-          J
-         </b>
-         Pop Japanese. Released to. ... Video about 『ユイカ』(Yuika) - わがまま。(Selfish) (English Translation) Some videos may be incorrect, apologies if this is the case, we are improving ...
+         y vídeo musical: 私ぎゅってしたいのです! もっと会いたいのです! 本当はもっと 近くにいたいのに。 会えない間に かわいくなるから 他の子は見ないで 私を見て! あのこはいいよな 好きな時に会えて くっついちゃったりしちゃってさ。 私は ...
         </a>
         <div class="clear">
         </div>
@@ -596,34 +714,7 @@
          </div>
         </div>
         <a class="result__snippet" href="https://www.jpmarumaru.com/tw/JPSongPlay-20482.html">
-         吶，一旦注意到就馬上用LINE聯繫我吧。. 貴方あなたに会あえたら 今いますぐ会あえたらあなたにあえたら いますぐあえたら. 如果能見到你 如果現在就能見到你. 貴方あなたをぎゅって抱だきしめるよあなたをぎゅってだきしめるよ. 我會緊緊抱著你. あの甘 ...
-        </a>
-        <div class="clear">
-        </div>
-       </div>
-      </div>
-      <div class="result results_links results_links_deep web-result">
-       <div class="links_main links_deep result__body">
-        <!-- This is the visible part -->
-        <h2 class="result__title">
-         <a class="result__a" href="https://open.spotify.com/track/1R4bZvYevwwL0ahPMa15vJ" rel="nofollow">
-          わがまま。 - song and lyrics by 『ユイカ』 | Spotify
-         </a>
-        </h2>
-        <div class="result__extras">
-         <div class="result__extras__url">
-          <span class="result__icon">
-           <a href="https://open.spotify.com/track/1R4bZvYevwwL0ahPMa15vJ" rel="nofollow">
-            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/open.spotify.com.ico" width="16"/>
-           </a>
-          </span>
-          <a class="result__url" href="https://open.spotify.com/track/1R4bZvYevwwL0ahPMa15vJ">
-           open.spotify.com/track/1R4bZvYevwwL0ahPMa15vJ
-          </a>
-         </div>
-        </div>
-        <a class="result__snippet" href="https://open.spotify.com/track/1R4bZvYevwwL0ahPMa15vJ">
-         『ユイカ』 · Song · 2024
+         わがまま。. - 『 ユイカ ゆいか 』. 私 わたし ぎゅってしたいのです! もっと 会 あ いたいのです!わたしぎゅってしたいのです! もっとあいたいのです! 我想要緊緊抱著你! 我更想見到你! 本当 ほんとう はもっと 近 ちか くにいたいのに…。. ほんとうは ...
         </a>
         <div class="clear">
         </div>
@@ -654,7 +745,11 @@
          <b>
           lyrics
          </b>
-         to songs by 『ユイカ』(Yuika) and join the Genius community of music scholars to learn the meaning behind the
+         to songs by 『ユイカ』(
+         <b>
+          Yuika
+         </b>
+         ) and join the Genius community of music scholars to learn the meaning behind the
          <b>
           lyrics
          </b>
@@ -685,15 +780,11 @@
          </div>
         </div>
         <a class="result__snippet" href="https://chordify.net/chords/yuika-songs/wagamama-chords">
-         Chords for 『
-         <b>
-          わがまま。
-         </b>
-         』- 『ユイカ』
+         わがまま。. was released in 2024 by 『ユイカ』. Chords for 『 わがまま。. 』- 『ユイカ』
          <b>
           lyrics
          </b>
-         | MINYI music.: F, C, G, Am. Play along with guitar, ukulele, or piano with interactive chords and diagrams ...
+         | MINYI music.: F, C, G, Am. Play along with guitar, ukulele, or piano with interactive chords and diagrams. Includes transpose, capo hints, changing speed and much more.
         </a>
         <div class="clear">
         </div>
@@ -720,7 +811,10 @@
          </div>
         </div>
         <a class="result__snippet" href="https://music.youtube.com/watch?v=CQZr7PmpxJU">
-         0:00 / 2:51. Cuento: La Abejita Valiente Cuentos Infantiles Podcast. A new music service with official albums, singles, videos, remixes, live performances and more for Android, iOS and desktop. It's all here.
+         <b>
+          Lyrics
+         </b>
+         Related Playing from Kpop random dance Radio. Save. Autoplay. Add similar content to the end of the queue. Kpop random dance. lovesniki. 25:34. Autoplay is on. Kpop random dance. lovesniki. 25:34. Player bar. 0:00 / 1:36 Kpop random dance. Sponsored lovesniki • 9.2K views • 234 likes.
         </a>
         <div class="clear">
         </div>
@@ -730,24 +824,31 @@
        <div class="links_main links_deep result__body">
         <!-- This is the visible part -->
         <h2 class="result__title">
-         <a class="result__a" href="https://www.youtube.com/watch?v=CQZr7PmpxJU" rel="nofollow">
-          わがまま。/『ユイカ』 - YouTube
+         <a class="result__a" href="https://chordify.net/chords/wagamama-yuika-lyric-video-yuika" rel="nofollow">
+          わがまま。/ 『ユイカ』【Lyric Video】 Chords - Chordify
          </a>
         </h2>
         <div class="result__extras">
          <div class="result__extras__url">
           <span class="result__icon">
-           <a href="https://www.youtube.com/watch?v=CQZr7PmpxJU" rel="nofollow">
-            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.youtube.com.ico" width="16"/>
+           <a href="https://chordify.net/chords/wagamama-yuika-lyric-video-yuika" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/chordify.net.ico" width="16"/>
            </a>
           </span>
-          <a class="result__url" href="https://www.youtube.com/watch?v=CQZr7PmpxJU">
-           www.youtube.com/watch?v=CQZr7PmpxJU
+          <a class="result__url" href="https://chordify.net/chords/wagamama-yuika-lyric-video-yuika">
+           chordify.net/chords/wagamama-yuika-lyric-video-yuika
           </a>
+          <span>
+           2024-06-16T00:00:00.0000000
+          </span>
          </div>
         </div>
-        <a class="result__snippet" href="https://www.youtube.com/watch?v=CQZr7PmpxJU">
-         About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy &amp; Safety How YouTube works Test new features NFL Sunday Ticket Press Copyright ...
+        <a class="result__snippet" href="https://chordify.net/chords/wagamama-yuika-lyric-video-yuika">
+         Chords for わがまま。/ 『ユイカ』【
+         <b>
+          Lyric
+         </b>
+         Video】.: F, C, G, Am. Chordify is your #1 platform for chords. Grab your guitar, ukulele or piano and jam along in no time.
         </a>
         <div class="clear">
         </div>
@@ -757,24 +858,28 @@
        <div class="links_main links_deep result__body">
         <!-- This is the visible part -->
         <h2 class="result__title">
-         <a class="result__a" href="https://www.ufret.jp/song.php?data=161422" rel="nofollow">
-          わがまま。 / 『ユイカ』 ギターコード/ウクレレコード/ピアノコード - U-フレット
+         <a class="result__a" href="https://www.bjgmcpune.org/" rel="nofollow">
+          BJ Medical
          </a>
         </h2>
         <div class="result__extras">
          <div class="result__extras__url">
           <span class="result__icon">
-           <a href="https://www.ufret.jp/song.php?data=161422" rel="nofollow">
-            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.ufret.jp.ico" width="16"/>
+           <a href="https://www.bjgmcpune.org/" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.bjgmcpune.org.ico" width="16"/>
            </a>
           </span>
-          <a class="result__url" href="https://www.ufret.jp/song.php?data=161422">
-           www.ufret.jp/song.php?data=161422
+          <a class="result__url" href="https://www.bjgmcpune.org/">
+           www.bjgmcpune.org
           </a>
          </div>
         </div>
-        <a class="result__snippet" href="https://www.ufret.jp/song.php?data=161422">
-         『ユイカ』の曲をもっと見る... メニュー U-フレットトップ U-フレット動画プラス ランキング お気に入り 閲覧履歴 New 新着楽譜 U-フレットチャンネル U-フレットマガジン ギタ女オーディション ギターコードブック
+        <a class="result__snippet" href="https://www.bjgmcpune.org/">
+         Sassoon General Hospitals is a large state-run hospital in Pune, India with 1296 beds. It is affiliated to the B.
+         <b>
+          J
+         </b>
+         . Government Medical College and a Nurses training School. Sassoon Hospital caters to 9,426,959 population of Pune District- a 2nd most populous district in the State of Maharashtra. The Jewish philanthropist David Sassoon from ...
         </a>
         <div class="clear">
         </div>
@@ -784,27 +889,27 @@
        <div class="links_main links_deep result__body">
         <!-- This is the visible part -->
         <h2 class="result__title">
-         <a class="result__a" href="https://jsuniltutorial.weebly.com/uploads/7/8/7/0/7870542/8th_understanding_quadrilaterals_practice_paper.pdf" rel="nofollow">
-          <span class="result__type">
-           PDF
-          </span>
-          JSUNILTUTORIAL, SAMASTIPUR BIHAR 8th Understanding Quadrilaterals ...
+         <a class="result__a" href="https://blog.yatradham.org/maharashtra-jyotirlinga/" rel="nofollow">
+          5 Jyotirlinga in Maharashtra, Route Map and Itinerary - YatraDham
          </a>
         </h2>
         <div class="result__extras">
          <div class="result__extras__url">
           <span class="result__icon">
-           <a href="https://jsuniltutorial.weebly.com/uploads/7/8/7/0/7870542/8th_understanding_quadrilaterals_practice_paper.pdf" rel="nofollow">
-            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/jsuniltutorial.weebly.com.ico" width="16"/>
+           <a href="https://blog.yatradham.org/maharashtra-jyotirlinga/" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/blog.yatradham.org.ico" width="16"/>
            </a>
           </span>
-          <a class="result__url" href="https://jsuniltutorial.weebly.com/uploads/7/8/7/0/7870542/8th_understanding_quadrilaterals_practice_paper.pdf">
-           jsuniltutorial.weebly.com/uploads/7/8/7/0/7870542/8th_understanding_quadrilaterals_practice_paper.pdf
+          <a class="result__url" href="https://blog.yatradham.org/maharashtra-jyotirlinga/">
+           blog.yatradham.org/maharashtra-jyotirlinga/
           </a>
+          <span>
+           2023-10-18T00:00:00.0000000
+          </span>
          </div>
         </div>
-        <a class="result__snippet" href="https://jsuniltutorial.weebly.com/uploads/7/8/7/0/7870542/8th_understanding_quadrilaterals_practice_paper.pdf">
-         Find all the angles. 8. If one of the angles of a parallelogram is a right angle, prove that it is a rectangle. 9. If all the angles of a parallelogram are equal. Prove that it is a rectangle. 10. Find the length of the diagonal of a rectangle whose length is 15cm and breadth is 8cm. 11.
+        <a class="result__snippet" href="https://blog.yatradham.org/maharashtra-jyotirlinga/">
+         By Kinjal Jesani. October 18, 2023. 3. 34856. Maharashtra a home to 5 Jyotirlingas dedicated to Lord Shiva. Bhimashankar Jyotirlinga Temple, Trimbakeshwar Jyotirlinga, Grishneshwar Jyotirling, Aundha Nagnath Jyotirling and Parli Vaijnath Jyotirlinga Temple are the five Jyotirlingas of Maharashtra. From the verdant hills of Bhimashankar to the ...
         </a>
         <div class="clear">
         </div>
@@ -814,24 +919,24 @@
        <div class="links_main links_deep result__body">
         <!-- This is the visible part -->
         <h2 class="result__title">
-         <a class="result__a" href="https://music.youtube.com/watch?v=guxVm74TD4Q&amp;list=RDCLAK5uy_nVjU2j4lOFyJicLDWEMjYmBkaejmrsx5M&amp;index=0" rel="nofollow">
-          わがまま。/ 『ユイカ』【Lyric Video】 - YouTube Music
+         <a class="result__a" href="https://www.google.co.in/maps" rel="nofollow">
+          Google Maps
          </a>
         </h2>
         <div class="result__extras">
          <div class="result__extras__url">
           <span class="result__icon">
-           <a href="https://music.youtube.com/watch?v=guxVm74TD4Q&amp;list=RDCLAK5uy_nVjU2j4lOFyJicLDWEMjYmBkaejmrsx5M&amp;index=0" rel="nofollow">
-            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/music.youtube.com.ico" width="16"/>
+           <a href="https://www.google.co.in/maps" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.google.co.in.ico" width="16"/>
            </a>
           </span>
-          <a class="result__url" href="https://music.youtube.com/watch?v=guxVm74TD4Q&amp;list=RDCLAK5uy_nVjU2j4lOFyJicLDWEMjYmBkaejmrsx5M&amp;index=0">
-           music.youtube.com/watch?v=guxVm74TD4Q&amp;list=RDCLAK5uy_nVjU2j4lOFyJicLDWEMjYmBkaejmrsx5M&amp;index=0
+          <a class="result__url" href="https://www.google.co.in/maps">
+           www.google.co.in/maps
           </a>
          </div>
         </div>
-        <a class="result__snippet" href="https://music.youtube.com/watch?v=guxVm74TD4Q&amp;list=RDCLAK5uy_nVjU2j4lOFyJicLDWEMjYmBkaejmrsx5M&amp;index=0">
-         Add similar content to the end of the queue. Autoplay is on. Player bar
+        <a class="result__snippet" href="https://www.google.co.in/maps">
+         Find local businesses, view maps and get driving directions in Google Maps.
         </a>
         <div class="clear">
         </div>
@@ -841,78 +946,24 @@
        <div class="links_main links_deep result__body">
         <!-- This is the visible part -->
         <h2 class="result__title">
-         <a class="result__a" href="https://www.bpsc.bih.nic.in/" rel="nofollow">
-          Bihar Public Service Commission
+         <a class="result__a" href="https://cetcell.mahacet.org/" rel="nofollow">
+          Home. - State Common Entrance Test Cell
          </a>
         </h2>
         <div class="result__extras">
          <div class="result__extras__url">
           <span class="result__icon">
-           <a href="https://www.bpsc.bih.nic.in/" rel="nofollow">
-            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/www.bpsc.bih.nic.in.ico" width="16"/>
+           <a href="https://cetcell.mahacet.org/" rel="nofollow">
+            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/cetcell.mahacet.org.ico" width="16"/>
            </a>
           </span>
-          <a class="result__url" href="https://www.bpsc.bih.nic.in/">
-           www.bpsc.bih.nic.in
+          <a class="result__url" href="https://cetcell.mahacet.org/">
+           cetcell.mahacet.org
           </a>
          </div>
         </div>
-        <a class="result__snippet" href="https://www.bpsc.bih.nic.in/">
-         Invitation Letters: For candidates appearing in Document Verification on 5th August, 2024 for the post of State Fire Consultant &amp; Advisor under Bihar Fire Services of Home Department (Police Section), Govt. of Bihar. (Advt. No. 31/2024) 01/08/2024.
-        </a>
-        <div class="clear">
-        </div>
-       </div>
-      </div>
-      <div class="result results_links results_links_deep web-result">
-       <div class="links_main links_deep result__body">
-        <!-- This is the visible part -->
-        <h2 class="result__title">
-         <a class="result__a" href="https://wrd.bihar.gov.in/" rel="nofollow">
-          Water Resources Department, Government of Bihar, India
-         </a>
-        </h2>
-        <div class="result__extras">
-         <div class="result__extras__url">
-          <span class="result__icon">
-           <a href="https://wrd.bihar.gov.in/" rel="nofollow">
-            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/wrd.bihar.gov.in.ico" width="16"/>
-           </a>
-          </span>
-          <a class="result__url" href="https://wrd.bihar.gov.in/">
-           wrd.bihar.gov.in
-          </a>
-         </div>
-        </div>
-        <a class="result__snippet" href="https://wrd.bihar.gov.in/">
-         Government Of Bihar. बिहार सरकार. Sinchai Bhawan, Patna, Bihar, India. E-mail: wrd-bih[at]nic[dot]in. Visit WRD, Bihar on Social Media. Visit Other Portals of WRD. WRD, Bihar Headquarter. Website Policies. An official website of Water Resources Department, Government of Bihar.
-        </a>
-        <div class="clear">
-        </div>
-       </div>
-      </div>
-      <div class="result results_links results_links_deep web-result">
-       <div class="links_main links_deep result__body">
-        <!-- This is the visible part -->
-        <h2 class="result__title">
-         <a class="result__a" href="https://biharbhumi.bihar.gov.in/Biharbhumi/Default" rel="nofollow">
-          Home Page Online Mutation
-         </a>
-        </h2>
-        <div class="result__extras">
-         <div class="result__extras__url">
-          <span class="result__icon">
-           <a href="https://biharbhumi.bihar.gov.in/Biharbhumi/Default" rel="nofollow">
-            <img alt="" class="result__icon__img" height="16" name="i15" src="//external-content.duckduckgo.com/ip3/biharbhumi.bihar.gov.in.ico" width="16"/>
-           </a>
-          </span>
-          <a class="result__url" href="https://biharbhumi.bihar.gov.in/Biharbhumi/Default">
-           biharbhumi.bihar.gov.in/Biharbhumi/Default
-          </a>
-         </div>
-        </div>
-        <a class="result__snippet" href="https://biharbhumi.bihar.gov.in/Biharbhumi/Default">
-         Dr. Dilip Kumar Jaiswal. Hon'ble Minister, Department of Revenue &amp; Land Reforms, Govt. of Bihar
+        <a class="result__snippet" href="https://cetcell.mahacet.org/">
+         Announcement Admission Process A.Y 2024-25 CET (Examination) portal for A.Y 2024-25 Candidate Help Module Institute Help Module Foreign Candidate Registration A.Y 2024-25 0 Number of Departments 0 Number of CETs 0 Number of Courses 0 + Number of Institutes About CET Cell The Government of Maharashtra has established State Common Entrance Test Cell as per […]
         </a>
         <div class="clear">
         </div>
@@ -921,14 +972,14 @@
       <div class="nav-link">
        <form action="/html/" method="post">
         <input class="btn btn--alt" type="submit" value="Next"/>
-        <input name="q" type="hidden" value="j-lyric わがまま。 ユイカ"/>
+        <input name="q" type="hidden" value="j-lyric わがまま。 Yuika"/>
         <input name="s" type="hidden" value="22"/>
         <input name="nextParams" type="hidden" value=""/>
         <input name="v" type="hidden" value="l"/>
         <input name="o" type="hidden" value="json"/>
         <input name="dc" type="hidden" value="23"/>
         <input name="api" type="hidden" value="d.js"/>
-        <input name="vqd" type="hidden" value="4-54033476882374073684698481453764341259"/>
+        <input name="vqd" type="hidden" value="4-231786853690175192960514012922764716750"/>
         <input name="kl" type="hidden" value="wt-wt"/>
        </form>
       </div>

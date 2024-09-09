@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import PropTypes from "prop-types";
 import { useLocation, useParams } from "react-router-dom";
 import VideoPlayer from "./vidplayer";
+import ChatbotPopup from "./chatbot";
 
 //
 const YoutubeEmbed = () => {
@@ -36,6 +37,7 @@ const YoutubeEmbed = () => {
           <VideoPlayer videoId={videoId} />
         </div>
       </div>
+      
   
       <div className="m-4 sm:m-8 flex flex-col items-center">
         <div className="w-full h-full bg-gray-700 bg-opacity-50 p-4 rounded-lg text-white">
@@ -45,6 +47,8 @@ const YoutubeEmbed = () => {
           />
         </div>
       </div>
+
+    <ChatbotPopup/>
     </div>
   );
   
