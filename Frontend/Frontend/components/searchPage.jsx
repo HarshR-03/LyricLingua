@@ -21,7 +21,7 @@ const SearchPage = ()=>{
       setSearchTerm(query);
       if (encodedVideos) {
         try {
-          const decodedVideos = JSON.parse(decodeURIComponent(atob(encodedVideos)));
+          const decodedVideos = JSON.parse(decodeURIComponent(encodedVideos));
           console.log("inside useeffect: ", decodedVideos)
           console.log(typeof decodedVideos)
           setVideos(decodedVideos);
@@ -62,7 +62,7 @@ const SearchPage = ()=>{
             })
 
             setVideos(response);
-            const encodedVideos = btoa(encodeURIComponent(JSON.stringify(response)));
+            const encodedVideos = encodeURIComponent(JSON.stringify(response));
             console.log(`encoded videos: ${encodedVideos}`);
             navigate(`?q=${encodeURIComponent(searchTerm)}&videos=${encodedVideos}`);
         }
