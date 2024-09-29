@@ -7,10 +7,12 @@ import ChatbotPopup from "./chatbot";
 //
 const YoutubeEmbed = () => {
   const [data, setData] = useState("Lyrics Loading");
+  const [LyricsLoaded,setLyricsLoaded] = useState(false);
   const { videoId } = useParams()
   const { state } = useLocation()
   useEffect(() => {
     const getData = async (state) => {
+      setLyricsLoaded(false);
       var lyrics = await fetch('https://lyriclingua.onrender.com/lyrics/',
         {
           method: "POST",
@@ -20,6 +22,7 @@ const YoutubeEmbed = () => {
       lyrics = await lyrics.json();
       console.log(lyrics)
       setData(lyrics);
+      setLyricsLoaded(true);
     }
     state && getData(state);
   }
@@ -41,10 +44,11 @@ const YoutubeEmbed = () => {
   
       <div className="m-4 sm:m-8 flex flex-col items-center">
         <div className="w-full h-full bg-gray-700 bg-opacity-50 p-4 rounded-lg text-white">
+          {LyricsLoaded? <div className="text-lg">{data}</div> :
           <div
-            dangerouslySetInnerHTML={{ __html: data[0] }}
+            dangerouslySetInnerHTML={{ __html: data[0].slice(1,-1) }}
             className="whitespace-pre-wrap text-lg leading-relaxed max-h-96 overflow-y-auto"
-          />
+          />}
         </div>
       </div>
 
