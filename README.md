@@ -6,7 +6,9 @@ learning tools, and integrates with official kanji databases to offer detailed w
 Technical Stack:
 
 Frontend: React
+
 Backend: Django, Streamlit
+
 APIs: Youtube Data API
 
 Features
