@@ -5,7 +5,7 @@ from .scrape3 import get_query_from_chat
 import asyncio
 import aiohttp
 # Function to scrape lyrics from J-Lyric.net
-def scrape_jlyric(data):
+async def scrape_jlyric(data):
     await asyncio.sleep(2)
     query = await get_query_from_chat(data)
     header = {
