@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import { useLocation, useParams } from "react-router-dom";
 import VideoPlayer from "./vidplayer";
 import ChatbotPopup from "./chatbot";
-
+import SliderButton from './SliderButton'
 //
 const YoutubeEmbed = () => {
   const [data, setData] = useState("Lyrics Loading");
@@ -11,6 +11,7 @@ const YoutubeEmbed = () => {
   const { videoId } = useParams()
   const { state } = useLocation()
   const [Ind, setInd] = useState(0)
+  
   function handleNext(){
     if(Ind==data.length-1){
       setInd(0)
@@ -28,7 +29,12 @@ const YoutubeEmbed = () => {
           body: JSON.stringify(state)
         }
       )
-      lyrics = await lyrics.json();
+      if(lyrics.ok){
+        lyrics = await lyrics.json();
+      }
+      else{
+        lyrics = ["Error. Unable to scrape Lyrics"]
+      }
       console.log(lyrics)
       setData(lyrics);
       setLyricsLoaded(true);
@@ -36,6 +42,7 @@ const YoutubeEmbed = () => {
     state && getData(state);
   }
     , [state])
+  
   function dummy(){
     var lyric = data[0].slice(1,-1)
     var temp = document.createElement('div')
@@ -55,9 +62,10 @@ const YoutubeEmbed = () => {
         <div className="w-full h-full bg-gray-700 bg-opacity-50 p-4 rounded-lg text-white">
           {!LyricsLoaded? <div className="text-lg">{data}</div> :
           <div
-            dangerouslySetInnerHTML={{ __html: (data[0][1]=='[')? data[0].slice(1,-1):data[0] }}
+            dangerouslySetInnerHTML={{ __html: (data[Ind][0]=='[')? data[Ind].slice(1,-1):data[Ind] }}
             className="whitespace-pre-wrap text-lg leading-relaxed max-h-96 overflow-y-auto"
-          />}
+          />
+          <SliderButton func={handleNext}/>}
         </div>
       </div>
 
