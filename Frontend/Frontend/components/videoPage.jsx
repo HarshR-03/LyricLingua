@@ -10,6 +10,15 @@ const YoutubeEmbed = () => {
   const [LyricsLoaded,setLyricsLoaded] = useState(false);
   const { videoId } = useParams()
   const { state } = useLocation()
+  const [Ind, setInd] = useState(0)
+  function handleNext(){
+    if(Ind==data.length-1){
+      setInd(0)
+    }
+    else{
+      setInd(Ind+1)
+    }
+  }
   useEffect(() => {
     const getData = async (state) => {
       setLyricsLoaded(false);
