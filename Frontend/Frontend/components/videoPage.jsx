@@ -65,7 +65,8 @@ const YoutubeEmbed = () => {
             dangerouslySetInnerHTML={{ __html: (data[Ind][0]=='[')? data[Ind].slice(1,-1):data[Ind] }}
             className="whitespace-pre-wrap text-lg leading-relaxed max-h-96 overflow-y-auto"
           />
-          <SliderButton func={handleNext}/>}
+          }
+          <SliderButton func={handleNext}/>
         </div>
       </div>
 
