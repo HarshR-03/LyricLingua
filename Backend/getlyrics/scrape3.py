@@ -13,7 +13,7 @@ sys.path.append(str(BASE_DIR.parent))
 
 # Load the .env file
 load_dotenv(dotenv_path=BASE_DIR / '.env')
-def get_query_from_chat(data):
+async def get_query_from_chat(data):
     print(data)
     llm = Groq(model="mixtral-8x7b-32768", api_key=os.getenv("GROQ_API_KEY"))
 
