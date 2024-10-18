@@ -46,7 +46,7 @@ const YoutubeEmbed = () => {
         <div className="w-full h-full bg-gray-700 bg-opacity-50 p-4 rounded-lg text-white">
           {!LyricsLoaded? <div className="text-lg">{data}</div> :
           <div
-            dangerouslySetInnerHTML={{ __html: data[0].slice(1,-1) }}
+            dangerouslySetInnerHTML={{ __html: (data[0][1]=='[')? data[0].slice(1,-1):data[0] }}
             className="whitespace-pre-wrap text-lg leading-relaxed max-h-96 overflow-y-auto"
           />}
         </div>
