@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import SearchPage from "../components/searchPage";
-import YoutubeEmbed from "../components/videoPage";
+// import YoutubeEmbed from "../components/videoPage";
 import Vidpage from "../components/vidpage";
 import {BrowserRouter, Route,Routes} from 'react-router-dom'
 
