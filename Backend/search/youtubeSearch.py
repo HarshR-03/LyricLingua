@@ -5,14 +5,15 @@ import os
 import sys
 from pathlib import Path
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+# BASE_DIR = Path(__file__).resolve().parent.parent
 # Add parent directory to the Python path
-sys.path.append(str(BASE_DIR.parent))
+# sys.path.append(str(BASE_DIR.parent))
 # Load the .env file
-load_dotenv(dotenv_path=BASE_DIR / '.env')
+# load_dotenv(dotenv_path=BASE_DIR / '.env')
+load_dotenv()
 
 DEVELOPER_KEY = os.getenv('DEVELOPER_KEY')
-print(DEVELOPER_KEY)
+# print(DEVELOPER_KEY)
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 

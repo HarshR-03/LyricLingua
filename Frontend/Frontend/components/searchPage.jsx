@@ -75,7 +75,7 @@ const SearchPage = ()=>{
         navigate(`/video/${id}`,{state:{title,desc}})
     }
     return (
-        <div className="bg-[url('../assets/sunsetbg.jpg')] bg-cover bg-fixed w-full min-h-screen">
+        <div className="bg-[url('../assets/wp1.jpg')] bg-cover bg-fixed w-full min-h-screen">
         <Header searchTerm={searchTerm} setSearchTerm={setSearchTerm} searchHandler={searchHandler}/>
         <div >
             <div className="flex flex-col items-center justify-center w-3/4 mx-auto mt-4 bg-white bg-opacity-50 p-6 rounded-lg">

@@ -7,14 +7,18 @@ import aiohttp
 # Function to scrape lyrics from J-Lyric.net
 async def scrape_jlyric(data):
     await asyncio.sleep(2)
-    query = await get_query_from_chat(data)
-    header = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
-    url = f'https://duckduckgo.com/html/?q={query}'
-    await asyncio.sleep(10)
-    results = await scrape_result(url)
-    # Example song URL
-    print(results)
+    try:
+        query = await get_query_from_chat(data)
+        # print(f"query: {query}")
+        header = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
+        url = f'https://duckduckgo.com/html/?q={query}'
+        await asyncio.sleep(10)
+        results = await scrape_result(url)
+        # Example song URL
+        # print(results)
+    except Exception as e:
+        print(f"error: {e}")    
 
     lyrics = []
     async with aiohttp.ClientSession() as session:

@@ -24,6 +24,6 @@ async def scrape_result(url):
                         urllist.append(x['href'])
                     if "uta5.com" in x['href']:
                         urllist.append(x['href'])
-                print(urllist)
+                # print(urllist)
                 return urllist
     return None
