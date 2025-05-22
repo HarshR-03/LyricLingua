@@ -1,6 +1,7 @@
 import React, { useState,useEffect } from "react";
 import { useNavigate,useLocation,useSearchParams } from "react-router-dom";
 // import {useHistory} from "react-router-dom";
+import wp1 from '../assets/wp1.jpg'
 import Header from "./Header.jsx"
 import VideoCard from "./videoCard.jsx";
 
@@ -75,7 +76,8 @@ const SearchPage = ()=>{
         navigate(`/video/${id}`,{state:{title,desc}})
     }
     return (
-        <div className="bg-[url('Frontend/assets/wp1.jpg')] bg-cover bg-fixed w-full min-h-screen">
+        <div className="bg-cover bg-fixed w-full min-h-screen"
+            style={{ backgroundImage: `url(${wp1})` }}>
         <Header searchTerm={searchTerm} setSearchTerm={setSearchTerm} searchHandler={searchHandler}/>
         <div >
             <div className="flex flex-col items-center justify-center w-3/4 mx-auto mt-4 bg-white bg-opacity-50 p-6 rounded-lg">
