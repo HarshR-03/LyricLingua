@@ -78,8 +78,7 @@ const SearchPage = ()=>{
     return (
         <div className="bg-cover bg-fixed w-full min-h-screen"
             style={{ 
-                backgroundImage: `url(${wp1})`,
-                border: '2px solid red'
+                backgroundImage: `url(${wp1})`
             }}>
         <Header searchTerm={searchTerm} setSearchTerm={setSearchTerm} searchHandler={searchHandler}/>
         <div >
