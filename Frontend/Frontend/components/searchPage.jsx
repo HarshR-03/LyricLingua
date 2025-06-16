@@ -48,8 +48,8 @@ const SearchPage = ()=>{
             }
             console.log(d);
             e.preventDefault();
-            // const vidData = await fetch('https://lyriclingua.onrender.com/app/',{
-            const vidData = await fetch('http://localhost:8000/app/',{
+            const vidData = await fetch('https://lyriclingua.onrender.com/app/',{
+            // const vidData = await fetch('http://localhost:8000/app/',{
                 method:'post',
                 body:JSON.stringify({
                     "q":`${searchTerm}`,
