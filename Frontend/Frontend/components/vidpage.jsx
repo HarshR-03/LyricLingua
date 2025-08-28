@@ -207,7 +207,7 @@ const Vidpage = () => {
             <div className="relative flex-1">
               <iframe
                 className="absolute inset-0 h-full w-full bg-black-500 z-40 rounded-lg"
-                src="https://chtbotlyriclingua-ensecwpecacnmydudqkuty.streamlit.app?embed=true&embed_options=hide_footer"
+                src={process.env.CHATBOT_URL}
                 style={{ border: "none" }}
               />
             </div>
