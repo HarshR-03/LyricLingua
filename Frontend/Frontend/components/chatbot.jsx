@@ -14,7 +14,7 @@ function ChatbotPopup() {
       </button>
       {isOpen && 
         <iframe className="absolute left-8 bottom-12 h-4/6 w-2/6 bg-black-500 z-40 rounded-lg"
-          src={process.env.CHATBOT_URL}
+          src="https://chtbotlyriclingua-cj6zydgvzabznvkjwqr3yn.streamlit.app/?embed=true"
         ></iframe>
         }
     </>
