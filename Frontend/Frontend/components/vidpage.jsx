@@ -205,6 +205,7 @@ const Vidpage = () => {
               </button>
             </div>
             <div className="relative flex-1">
+              {console.log(import.meta.env.VITE_CHATBOT_URL)}
               <iframe
                 className="absolute inset-0 h-full w-full bg-black-500 z-40 rounded-lg"
                 src={import.meta.env.VITE_CHATBOT_URL}
