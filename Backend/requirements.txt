@@ -9,4 +9,5 @@ python-dotenv
 django-cors-headers
 aiohttp
 waitress
+uvicorn
 
