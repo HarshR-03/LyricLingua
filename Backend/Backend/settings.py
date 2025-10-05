@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-7^ny^hf8ysw#d$*wakk82u^_2!4@e$svz+c+%&!st8x-+xof$v
 DEBUG = True
 
 CORS_ALLOW_ALL_ORIGINS = True
-CORS_ALLOWED_ORIGINS = ['lyriclingua.onrender.com']
+# CORS_ALLOWED_ORIGINS = ['https://lyriclingua.onrender.com']
 ALLOWED_HOSTS = ['localhost','0.0.0.0','lyriclingua.onrender.com']
 
 
