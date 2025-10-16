@@ -1,0 +1,22 @@
+version: "3.9"
+
+services:
+  web:
+    build: ./backend
+    container_name: django_app
+    command: uvicorn Backend.asgi:application --host 0.0.0.0 --port 8000
+    volumes:
+      - ./backend:/app
+    ports:
+      - "8000:8000"
+    depends_on:
+      - redis
+    environment:
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+
+  redis:
+    image: redis:7-alpine
+    container_name: redis_server
+    ports:
+      - "6379:6379"

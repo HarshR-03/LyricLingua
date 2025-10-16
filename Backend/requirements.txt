@@ -10,4 +10,5 @@ django-cors-headers
 aiohttp
 waitress
 uvicorn
+django-redis
 
