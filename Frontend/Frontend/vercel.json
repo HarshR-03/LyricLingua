@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/backend-api/(.*)",
+      "destination": "http://15.134.125.56:8000/$1"
+    }
+  ]
+}
