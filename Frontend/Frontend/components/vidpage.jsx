@@ -27,7 +27,7 @@ const Vidpage = () => {
       setLyricsLoaded(false);
       // var lyrics = await fetch('https://lyriclingua.onrender.com/lyrics/',
       console.log("state: ",state);
-      var lyrics = await fetch('https://15.134.125.56/lyrics/',
+      var lyrics = await fetch('/backend-api/lyrics/',
         {
           method: "POST",
           body: JSON.stringify(state)
