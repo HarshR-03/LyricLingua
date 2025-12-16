@@ -49,7 +49,7 @@ const SearchPage = ()=>{
             console.log("search data: ",d);
             e.preventDefault();
             // const vidData = await fetch('https://lyriclingua.onrender.com/app/',{
-            const vidData = await fetch('http://15.134.125.56:8000/app/',{
+            const vidData = await fetch('https://15.134.125.56:8000/app/',{
                 method:'post',
                 body:JSON.stringify({
                     "q":`${searchTerm}`,
