@@ -46,10 +46,10 @@ const SearchPage = ()=>{
                 "max_results":5,
                 "categoryId":10
             }
-            console.log(d);
+            console.log("search data: ",d);
             e.preventDefault();
-            const vidData = await fetch('https://lyriclingua.onrender.com/app/',{
-            // const vidData = await fetch('http://localhost:8000/app/',{
+            // const vidData = await fetch('https://lyriclingua.onrender.com/app/',{
+            const vidData = await fetch('http://15.134.125.56:8000/app/',{
                 method:'post',
                 body:JSON.stringify({
                     "q":`${searchTerm}`,
@@ -58,6 +58,7 @@ const SearchPage = ()=>{
                 })
                 }
             )
+            console.log("viddata:",vidData);
             if (!vidData.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
@@ -103,7 +104,7 @@ const SearchPage = ()=>{
                                 <h2 class="text-xl md:text-2xl font-bold text-white">Search Results</h2>
                                 <span class="text-gray-400 text-sm">{videos? videos.length: 0} results found</span> 
                             </div>
-                    <div class="space-y-2">
+                    <div className="space-y-2">
                         {videos!=null ? 
                             videos.map((video)=>{
                                 // return <div key={video.id.videoId} onClick={()=>{HandleClick(video.id.videoId)}}>
@@ -121,10 +122,10 @@ const SearchPage = ()=>{
                   </div> */}
                     </div>
                     </div>
-                    <div class="mt-2 md:mt-4 mb-12 md:mb-16">
+                    <div className="mt-2 md:mt-4 mb-12 md:mb-16">
                         <CategoryCards/>
                     </div>
-                <div class="mb-12">
+                <div className="mb-12">
                     <PopularSongsCards/>
                 </div>
             </div>
@@ -133,36 +134,36 @@ const SearchPage = ()=>{
 }
 
 const CategoryCards = ()=>{
-    return(
-        <>
-         <h2 class="text-2xl md:text-3xl font-bold text-white mb-8 text-center">Popular Categories</h2>
-         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6">
-            <div class="bg-white/10 backdrop-blur-md rounded-xl p-6 border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-105 cursor-pointer group">
-               <div class="text-center">
-                  <div class="w-16 h-16 mx-auto mb-4 bg-gradient-to-r from-red-500 to-orange-500 rounded-full flex items-center justify-center group-hover:rotate-12 transition-transform duration-300"> <span class="material-symbols-outlined text-white text-2xl">audiotrack</span> </div>
-                  <h3 class="text-white font-semibold text-lg mb-2">Opening Themes</h3>
-                  <p class="text-gray-400 text-sm">Epic anime openings</p>
+    return(      
+    <>
+         <h2 className="text-2xl md:text-3xl font-bold text-white mb-8 text-center">Popular Categories</h2>
+         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6">
+            <div className="bg-white/10 backdrop-blur-md rounded-xl p-6 border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-105 cursor-pointer group">
+               <div className="text-center">
+                  <div className="w-16 h-16 mx-auto mb-4 bg-gradient-to-r from-red-500 to-orange-500 rounded-full flex items-center justify-center group-hover:rotate-12 transition-transform duration-300"> <span class="material-symbols-outlined text-white text-2xl">audiotrack</span> </div>
+                  <h3 className="text-white font-semibold text-lg mb-2">Opening Themes</h3>
+                  <p className="text-gray-400 text-sm">Epic anime openings</p>
                </div>
             </div>
-            <div class="bg-white/10 backdrop-blur-md rounded-xl p-6 border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-105 cursor-pointer group">
-               <div class="text-center">
-                  <div class="w-16 h-16 mx-auto mb-4 bg-gradient-to-r from-blue-500 to-cyan-500 rounded-full flex items-center justify-center group-hover:rotate-12 transition-transform duration-300"> <span class="material-symbols-outlined text-white text-2xl">bedtime</span> </div>
-                  <h3 class="text-white font-semibold text-lg mb-2">Ending Themes</h3>
-                  <p class="text-gray-400 text-sm">Beautiful anime endings</p>
+            <div className="bg-white/10 backdrop-blur-md rounded-xl p-6 border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-105 cursor-pointer group">
+               <div className="text-center">
+                  <div className="w-16 h-16 mx-auto mb-4 bg-gradient-to-r from-blue-500 to-cyan-500 rounded-full flex items-center justify-center group-hover:rotate-12 transition-transform duration-300"> <span class="material-symbols-outlined text-white text-2xl">bedtime</span> </div>
+                  <h3 className="text-white font-semibold text-lg mb-2">Ending Themes</h3>
+                  <p className="text-gray-400 text-sm">Beautiful anime endings</p>
                </div>
             </div>
-            <div class="bg-white/10 backdrop-blur-md rounded-xl p-6 border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-105 cursor-pointer group">
-               <div class="text-center">
-                  <div class="w-16 h-16 mx-auto mb-4 bg-gradient-to-r from-green-500 to-emerald-500 rounded-full flex items-center justify-center group-hover:rotate-12 transition-transform duration-300"> <span class="material-symbols-outlined text-white text-2xl">landscape</span> </div>
-                  <h3 class="text-white font-semibold text-lg mb-2">OSTs</h3>
-                  <p class="text-gray-400 text-sm">Background music</p>
+            <div className="bg-white/10 backdrop-blur-md rounded-xl p-6 border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-105 cursor-pointer group">
+               <div className="text-center">
+                  <div className="w-16 h-16 mx-auto mb-4 bg-gradient-to-r from-green-500 to-emerald-500 rounded-full flex items-center justify-center group-hover:rotate-12 transition-transform duration-300"> <span class="material-symbols-outlined text-white text-2xl">landscape</span> </div>
+                  <h3 className="text-white font-semibold text-lg mb-2">OSTs</h3>
+                  <p className="text-gray-400 text-sm">Background music</p>
                </div>
             </div>
-            <div class="bg-white/10 backdrop-blur-md rounded-xl p-6 border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-105 cursor-pointer group">
-               <div class="text-center">
-                  <div class="w-16 h-16 mx-auto mb-4 bg-gradient-to-r from-purple-500 to-pink-500 rounded-full flex items-center justify-center group-hover:rotate-12 transition-transform duration-300"> <span class="material-symbols-outlined text-white text-2xl">star</span> </div>
-                  <h3 class="text-white font-semibold text-lg mb-2">J-Pop Hits</h3>
-                  <p class="text-gray-400 text-sm">Popular Japanese songs</p>
+            <div className="bg-white/10 backdrop-blur-md rounded-xl p-6 border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-105 cursor-pointer group">
+               <div className="text-center">
+                  <div className="w-16 h-16 mx-auto mb-4 bg-gradient-to-r from-purple-500 to-pink-500 rounded-full flex items-center justify-center group-hover:rotate-12 transition-transform duration-300"> <span class="material-symbols-outlined text-white text-2xl">star</span> </div>
+                  <h3 className="text-white font-semibold text-lg mb-2">J-Pop Hits</h3>
+                  <p className="text-gray-400 text-sm">Popular Japanese songs</p>
                </div>
             </div>
          </div>
@@ -173,10 +174,10 @@ const CategoryCards = ()=>{
 const PopularSongsCards = ()=>{
     return(
         <>
-         <h2 class="text-2xl md:text-3xl font-bold text-white mb-8 text-center">Trending Now</h2>
-         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <div class="bg-white/10 backdrop-blur-md rounded-xl overflow-hidden border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-105 cursor-pointer group">
-               <div class="aspect-video bg-gradient-to-r from-pink-500 to-violet-500 relative overflow-hidden">
+         <h2 className="text-2xl md:text-3xl font-bold text-white mb-8 text-center">Trending Now</h2>
+         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div className="bg-white/10 backdrop-blur-md rounded-xl overflow-hidden border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-105 cursor-pointer group">
+               <div className="aspect-video bg-gradient-to-r from-pink-500 to-violet-500 relative overflow-hidden">
                 <img
                     src={gurenge}
                     alt={`gurenge thumbnail`}
@@ -185,14 +186,14 @@ const PopularSongsCards = ()=>{
                     />
                   <div class="absolute inset-0 flex items-center justify-center"> <span class="material-symbols-outlined text-white text-4xl group-hover:scale-110 transition-transform duration-300">play_circle</span> </div>
                </div>
-               <div class="p-4">
-                  <h3 class="text-white font-semibold mb-1">Gurenge</h3>
-                  <p class="text-gray-400 text-sm mb-2">Demon Slayer Opening</p>
-                  <p class="text-pink-400 text-xs">LiSA</p>
+               <div className="p-4">
+                  <h3 className="text-white font-semibold mb-1">Gurenge</h3>
+                  <p className="text-gray-400 text-sm mb-2">Demon Slayer Opening</p>
+                  <p className="text-pink-400 text-xs">LiSA</p>
                </div>
             </div>
-            <div class="bg-white/10 backdrop-blur-md rounded-xl overflow-hidden border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-105 cursor-pointer group">
-               <div class="aspect-video bg-gradient-to-r from-blue-500 to-cyan-500 relative overflow-hidden">
+            <div className="bg-white/10 backdrop-blur-md rounded-xl overflow-hidden border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-105 cursor-pointer group">
+               <div className="aspect-video bg-gradient-to-r from-blue-500 to-cyan-500 relative overflow-hidden">
                 <img
                     src={unravel}
                     alt={`unravel thumbnail`}
@@ -201,28 +202,28 @@ const PopularSongsCards = ()=>{
                     />
                   <div class="absolute inset-0 flex items-center justify-center"> <span class="material-symbols-outlined text-white text-4xl group-hover:scale-110 transition-transform duration-300">play_circle</span> </div>
                </div>
-               <div class="p-4">
-                  <h3 class="text-white font-semibold mb-1">Unravel</h3>
-                  <p class="text-gray-400 text-sm mb-2">Tokyo Ghoul Opening</p>
-                  <p class="text-pink-400 text-xs">TK from Ling tosite sigure</p>
+               <div className="p-4">
+                  <h3 className="text-white font-semibold mb-1">Unravel</h3>
+                  <p className="text-gray-400 text-sm mb-2">Tokyo Ghoul Opening</p>
+                  <p className="text-pink-400 text-xs">TK from Ling tosite sigure</p>
                </div>
             </div>
-            <div class="bg-white/10 backdrop-blur-md rounded-xl overflow-hidden border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-105 cursor-pointer group">
-               <div class="aspect-video bg-gradient-to-r from-orange-500 to-red-500 relative overflow-hidden">
+            <div className="bg-white/10 backdrop-blur-md rounded-xl overflow-hidden border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-105 cursor-pointer group">
+               <div className="aspect-video bg-gradient-to-r from-orange-500 to-red-500 relative overflow-hidden">
                <img
                 src={aotop2}
                 alt={`shinzou wo sasageyo thumbnail`}
                 className="absolute top-0 left-0 w-full h-full object-cover z-0 transition-opacity duration-300 group-hover:opacity-80"
                 loading="lazy"
                 />
-                  <div class="absolute inset-0 flex items-center justify-center"> 
-                    <span class="material-symbols-outlined text-white text-4xl group-hover:scale-110 transition-transform duration-300">play_circle</span> 
+                  <div className="absolute inset-0 flex items-center justify-center"> 
+                    <span className="material-symbols-outlined text-white text-4xl group-hover:scale-110 transition-transform duration-300">play_circle</span> 
                     </div>
                </div>
-               <div class="p-4">
-                  <h3 class="text-white font-semibold mb-1">Shinzou wo Sasageyo</h3>
-                  <p class="text-gray-400 text-sm mb-2">Attack on Titan Opening</p>
-                  <p class="text-pink-400 text-xs">Linked Horizon</p>
+               <div className="p-4">
+                  <h3 className="text-white font-semibold mb-1">Shinzou wo Sasageyo</h3>
+                  <p className="text-gray-400 text-sm mb-2">Attack on Titan Opening</p>
+                  <p className="text-pink-400 text-xs">Linked Horizon</p>
                </div>
             </div>
          </div>
