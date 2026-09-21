@@ -1,0 +1,8 @@
+test
+test.js
+.mypy_cache
+Backend/.env
+Backend/venv
+Backend/prettify.txt
+Frontend/Frontend/.env
+Backend/*/__pycache__/*

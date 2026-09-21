@@ -20,6 +20,9 @@ class Scraper:
     async def get_lyrics(self, results):
         "Given a list of urls(results), fetch the lyrics from the urls"
         lyrics = []
+        if not results:
+            return lyrics
+
         headers = self.header 
         scrapers = {
             url: (JLyricScraper(url) if "j-lyric" in url else
@@ -48,7 +51,7 @@ class Scraper:
         async with aiohttp.ClientSession() as session:
             async with session.get(url, headers=self.header) as response:
                 # print(response.status_code,response.reason)
-                if response.status == 200:
+                if 200 <= response.status < 300:
                     soup = BeautifulSoup(await response.text(), 'html.parser')
                     
                     resultSnippets = soup.find_all('a', class_='result__a')
@@ -64,21 +67,17 @@ class Scraper:
                     return urllist
                 else:
                     print("response: ",response)
-        return None
+        return []
     
     async def run(self,data):
-        try:
-            await asyncio.sleep(2)
-            query = await LLMQueryParser().get_query_from_chat(data)
+        await asyncio.sleep(2)
+        query = await LLMQueryParser().get_query_from_chat(data)
 
-            await asyncio.sleep(10)
-            urlsToScrape = await self.scrape_urls(query)
+        await asyncio.sleep(10)
+        urlsToScrape = await self.scrape_urls(query)
 
-            lyrics = await self.get_lyrics(urlsToScrape)
-            return lyrics
-        except Exception as e:
-            print(e)
-            print(traceback.format_exc())
+        lyrics = await self.get_lyrics(urlsToScrape)
+        return lyrics
 
 
     

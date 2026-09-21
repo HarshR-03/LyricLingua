@@ -1,14 +1,17 @@
 from abc import ABC,abstractmethod
 from bs4 import BeautifulSoup
-from langchain_mistralai.embeddings import MistralAIEmbeddings
-from langchain.chat_models import init_chat_model
+from langchain_openai import ChatOpenAI
 from langchain_core.prompts import SystemMessagePromptTemplate, HumanMessagePromptTemplate, ChatPromptTemplate
 from dotenv import load_dotenv
 import os
-import sys
-from pathlib import Path
 
 load_dotenv()
+
+
+class LLMGatewayError(Exception):
+    def __init__(self, message, status_code=502):
+        super().__init__(message)
+        self.status_code = status_code
 
 class LyricsScrapeInterface(ABC):
     def __init__(self, url:str):
@@ -100,13 +103,63 @@ class LLMQueryParser:
             HumanMessagePromptTemplate.from_template("{input}")
         ])
 
-        self.model = init_chat_model("mistral-saba-2502", model_provider="mistralai")
+        account_id = os.getenv("CLOUDFLARE_ACCOUNT_ID")
+        gateway_id = os.getenv("CLOUDFLARE_AI_GATEWAY_ID")
+        gateway_url = os.getenv("CLOUDFLARE_AI_GATEWAY_URL")
+        gateway_token = os.getenv("CLOUDFLARE_AI_GATEWAY_TOKEN")
+        if not account_id or not gateway_id or not gateway_url or not gateway_token:
+            raise LLMGatewayError(
+                "Cloudflare AI Gateway configuration is incomplete", status_code=503
+            )
+
+        gateway_url = gateway_url.rstrip("/")
+        self.models = {
+            "groq": ChatOpenAI(
+                model=os.getenv("GROQ_MODEL", "openai/gpt-oss-120b"),
+                base_url=f"{gateway_url}/groq",
+                api_key=gateway_token,
+                default_headers={
+                    "cf-aig-authorization": f"Bearer {gateway_token}",
+                    "cf-aig-byok-alias": "groq",
+                },
+            ),
+            "mistralai": ChatOpenAI(
+                model=os.getenv("MISTRAL_MODEL", "ministral-3b-2512"),
+                base_url=f"{gateway_url}/mistral",
+                api_key=gateway_token,
+                default_headers={
+                    "cf-aig-authorization": f"Bearer {gateway_token}",
+                    "cf-aig-byok-alias": "mistralai",
+                },
+            ),
+        }
     
     async def get_query_from_chat(self,data):
-        try:
-            q = await self.prompt.ainvoke({"input":f"{data}"})
-            res = await self.model.ainvoke(q)
-            return res.content
-        except Exception as e:
-            print(f"error occured: {e}")
+        q = await self.prompt.ainvoke({"input": f"{data}"})
+        errors = []
+        for provider in ("groq", "mistralai"):
+            try:
+                res = await self.models[provider].ainvoke(q)
+                return res.content
+            except Exception as error:
+                errors.append((provider, error))
+
+        final_error = errors[-1][1]
+        status_codes = []
+        for _, provider_error in errors:
+            provider_status = getattr(provider_error, "status_code", None)
+            provider_response = getattr(provider_error, "response", None)
+            if provider_status is None and provider_response is not None:
+                provider_status = getattr(provider_response, "status_code", None)
+            if provider_status is not None:
+                status_codes.append(provider_status)
+        status_code = 429 if 429 in status_codes else (status_codes[-1] if status_codes else None)
+        if status_code is None:
+            status_code = 429 if any(
+                "rate limit" in str(provider_error).lower()
+                for _, provider_error in errors
+            ) else 502
+        raise LLMGatewayError(
+            f"AI Gateway request failed: {final_error}", status_code=status_code
+        ) from final_error
     

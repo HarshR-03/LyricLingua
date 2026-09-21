@@ -14,6 +14,7 @@ const SearchPage = ()=>{
     const [searchParams] = useSearchParams()
     const [searchTerm,setSearchTerm] = useState(searchParams.get('q')||'')
     const [videos,setVideos] = useState(null)
+    const [isSearching, setIsSearching] = useState(false)
     const location = useLocation();
     const navigate = useNavigate();
     
@@ -40,6 +41,8 @@ const SearchPage = ()=>{
 
 
     async function searchHandler(e){
+        e.preventDefault();
+        setIsSearching(true);
         try{
             const d = {
                 "q":`${searchTerm}`,
@@ -47,10 +50,10 @@ const SearchPage = ()=>{
                 "categoryId":10
             }
             console.log("search data: ",d);
-            e.preventDefault();
             // const vidData = await fetch('https://lyriclingua.onrender.com/app/',{
             const vidData = await fetch('/backend-api/app/',{
                 method:'post',
+                headers: {'Content-Type': 'application/json'},
                 body:JSON.stringify({
                     "q":`${searchTerm}`,
                     "max_results":10,
@@ -60,7 +63,7 @@ const SearchPage = ()=>{
             )
             console.log("viddata:",vidData);
             if (!vidData.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
+                throw new Error(`HTTP error! status: ${vidData.status}`);
             }
 
             const response = await vidData.json()
@@ -75,6 +78,9 @@ const SearchPage = ()=>{
         }
         catch(err){
             console.log(err.message);
+        }
+        finally{
+            setIsSearching(false);
         }
     }
 
@@ -92,7 +98,7 @@ const SearchPage = ()=>{
                     <p className="text-gray-300 text-lg md:text-xl max-w-2xl mx-auto">Learn japanese through anime songs and J-pop hits </p>
                 </header>
                 <div className="mb-12 md:mb-16">
-                    <SearchForm searchTerm={searchTerm} setSearchTerm={setSearchTerm} searchHandler={searchHandler}/>
+                    <SearchForm searchTerm={searchTerm} setSearchTerm={setSearchTerm} searchHandler={searchHandler} isSearching={isSearching}/>
                 </div>
 
                 {/* <Header searchTerm={searchTerm} setSearchTerm={setSearchTerm} searchHandler={searchHandler}/> */}
@@ -105,7 +111,9 @@ const SearchPage = ()=>{
                                 <span class="text-gray-400 text-sm">{videos? videos.length: 0} results found</span> 
                             </div>
                     <div className="space-y-2">
-                        {videos!=null ? 
+                        {videos === null ?
+                            (<p className="text-white">Try searching for something!</p>) : videos.length === 0 ?
+                            (<p className="text-white">No searches found.</p>) :
                             videos.map((video)=>{
                                 // return <div key={video.id.videoId} onClick={()=>{HandleClick(video.id.videoId)}}>
                                 // <img src={video.snippet.thumbnails.default.url}/>
@@ -113,8 +121,7 @@ const SearchPage = ()=>{
                                 // </div>
                                 return <VideoCard key={video.id.videoId} video={video} HandleClick={HandleClick} />
 
-                            }) :
-                            (<p className="text-white">Try searching for something!</p>)
+                            })
                         }
                         </div>
                     {/* <div class="flex justify-center mt-8">

@@ -17,4 +17,4 @@ COPY . .
 # RUN python manage.py collectstatic --noinput
 
 # 6️ Run server
-CMD ["uvicorn", "Backend.asgi:application", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["sh", "-c", "uvicorn Backend.asgi:application --host 0.0.0.0 --port ${PORT:-8000}"]

@@ -35,13 +35,22 @@ const Vidpage = () => {
       )
       if(lyrics.ok){
         lyrics = await lyrics.json();
+        setData(Array.isArray(lyrics) && lyrics.length > 0 ? lyrics : "No lyrics found");
+        setLyricsLoaded(Array.isArray(lyrics) && lyrics.length > 0);
       }
       else{
-        lyrics = ["Error. Unable to scrape Lyrics"]
+        const errorResponse = await lyrics.json().catch(() => ({}));
+        const errorMessage = errorResponse.error || "";
+        const isRateLimited = lyrics.status === 429 || /rate limit/i.test(errorMessage);
+        setData(
+          isRateLimited
+            ? "The server is experiencing high load. Please try again later."
+            : errorMessage === "No data found"
+              ? "No lyrics found"
+              : [errorMessage || `Lyrics request failed (${lyrics.status})`]
+        );
+        setLyricsLoaded(false);
       }
-      console.log(lyrics)
-      setData(lyrics);
-      setLyricsLoaded(true);
     }
     state && getData(state);
   }

@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/backend-api/(.*)",
-      "destination": "http://15.134.125.56:8000/$1"
+      "destination": "$BACKEND_URL/$1"
     }
   ]
 }
