@@ -7,7 +7,8 @@ import SearchForm from "./SearchForm.jsx";
 import aotop2 from "../assets/aotop2.jpg"
 import gurenge from "../assets/gurenge.jpg"
 import unravel from "../assets/unravel.jpg"
-import { BACKEND_URL } from "../config.js";
+
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || '';
 
 
 

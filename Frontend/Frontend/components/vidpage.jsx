@@ -3,7 +3,8 @@ import YouTube from "react-youtube";
 import { Play, Pause, Volume2, VolumeX } from "lucide-react";
 import LyricsGallery from "./LyricComp";
 import { useLocation, useParams } from "react-router-dom";
-import { BACKEND_URL } from "../config.js";
+
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || '';
 
 
 const Vidpage = () => {
