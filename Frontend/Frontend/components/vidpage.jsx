@@ -3,6 +3,7 @@ import YouTube from "react-youtube";
 import { Play, Pause, Volume2, VolumeX } from "lucide-react";
 import LyricsGallery from "./LyricComp";
 import { useLocation, useParams } from "react-router-dom";
+import { BACKEND_URL } from "../config.js";
 
 
 const Vidpage = () => {
@@ -27,7 +28,7 @@ const Vidpage = () => {
       setLyricsLoaded(false);
       // var lyrics = await fetch('https://lyriclingua.onrender.com/lyrics/',
       console.log("state: ",state);
-      var lyrics = await fetch('/backend-api/lyrics/',
+      var lyrics = await fetch(`${BACKEND_URL}/lyrics/`,
         {
           method: "POST",
           body: JSON.stringify(state)

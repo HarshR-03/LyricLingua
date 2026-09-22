@@ -7,6 +7,7 @@ import SearchForm from "./SearchForm.jsx";
 import aotop2 from "../assets/aotop2.jpg"
 import gurenge from "../assets/gurenge.jpg"
 import unravel from "../assets/unravel.jpg"
+import { BACKEND_URL } from "../config.js";
 
 
 
@@ -51,7 +52,7 @@ const SearchPage = ()=>{
             }
             console.log("search data: ",d);
             // const vidData = await fetch('https://lyriclingua.onrender.com/app/',{
-            const vidData = await fetch('/backend-api/app/',{
+            const vidData = await fetch(`${BACKEND_URL}/app/`,{
                 method:'post',
                 headers: {'Content-Type': 'application/json'},
                 body:JSON.stringify({
